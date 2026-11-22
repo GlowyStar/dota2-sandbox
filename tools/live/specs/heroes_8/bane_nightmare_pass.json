@@ -1,0 +1,9 @@
+{ "id": "bane_nightmare_pass",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_bane", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "bane_nightmare": 4 }, "face": [400, 0] },
+    { "tag": "a", "name": "npc_dota_hero_sven", "team": 0, "x": 550, "y": 150, "level": 10, "abilities": {}, "face": [400, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 400, "y": 0, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "bane_nightmare", "target": "t" },
+    { "t": 2.5, "unit": "a", "type": "attack", "target": "t" } ],
+  "duration": 9.0 }

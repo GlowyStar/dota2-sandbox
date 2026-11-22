@@ -1,0 +1,10 @@
+{ "id": "void_spirit_remnant_direction",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_void_spirit", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "void_spirit_aether_remnant": 4 }, "face": [600, 0] },
+    { "tag": "a", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 300, "y": 0, "face": [0, 0] },
+    { "tag": "b", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 900, "y": 0, "face": [0, 0] },
+    { "tag": "m", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 600, "y": 400, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "void_spirit_aether_remnant", "pos": [600, 0] },
+    { "t": 3.0, "unit": "m", "type": "move", "pos": [600, -400] } ],
+  "duration": 8.0 }

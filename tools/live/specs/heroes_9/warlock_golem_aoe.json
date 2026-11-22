@@ -1,0 +1,9 @@
+{ "id": "warlock_golem_aoe",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_warlock", "team": 0, "x": 0, "y": 0, "level": 30,
+      "abilities": { "warlock_rain_of_chaos": 3 }, "items": ["item_chasm_stone"], "face": [500, 0] },
+    { "tag": "n", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 300, "y": 0, "face": [0, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 844, "y": 0, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "warlock_rain_of_chaos", "pos": [500, 0] } ],
+  "duration": 6.0 }

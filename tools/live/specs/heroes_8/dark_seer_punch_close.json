@@ -1,0 +1,9 @@
+{ "id": "dark_seer_punch_close",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_dark_seer", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": {}, "scepter": true, "face": [100, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 100, "y": 0, "face": [0, 0] },
+    { "tag": "k", "name": "npc_dota_creep_badguys_melee", "team": 1, "x": 0, "y": 600 } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "attack", "target": "t" },
+    { "t": 8.0, "unit": "c", "type": "attack", "target": "k" } ],
+  "duration": 14.0 }

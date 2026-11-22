@@ -1,0 +1,8 @@
+{ "id": "h6_razor_plasma_dist",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_razor", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "razor_plasma_field": 4 }, "face": [400, 0] },
+    { "tag": "a", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 100, "y": 0 },
+    { "tag": "b", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 0, "y": 400 },
+    { "tag": "d", "name": "npc_dota_hero_target_dummy", "team": 1, "x": -650, "y": 0 } ],
+  "actions": [ { "t": 0.5, "unit": "c", "type": "cast", "ability": "razor_plasma_field" } ],
+  "duration": 5 }

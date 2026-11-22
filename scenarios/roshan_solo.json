@@ -1,0 +1,13 @@
+{
+  "name": "roshan_solo",
+  "scenario": {
+    "units": [
+      { "id": "hero", "team": 0, "unit": "ursa", "level": 12, "items": ["power_treads", "vladmir"] },
+      { "id": "rosh", "team": 1, "unit": "roshan", "ai": "fight" }
+    ],
+    "rules": { "maxTime": 180, "gameTime": "15:00" },
+    "distance": 200
+  },
+  "vary": { "units.0.unit": ["ursa", "troll_warlord", "life_stealer", "juggernaut", "sven", "skeleton_king"] },
+  "runs": 300, "seed": 1, "sort": "winrate"
+}

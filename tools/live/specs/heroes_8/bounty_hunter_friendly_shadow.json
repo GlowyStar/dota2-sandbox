@@ -1,0 +1,12 @@
+{ "id": "bounty_hunter_friendly_shadow",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_bounty_hunter", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "bounty_hunter_wind_walk": 4, "bounty_hunter_wind_walk_ally": 1 }, "shard": true, "face": [500, 0] },
+    { "tag": "a", "name": "npc_dota_hero_sven", "team": 0, "x": 300, "y": 200, "level": 10, "abilities": {}, "face": [500, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 500, "y": 0, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "bounty_hunter_wind_walk_ally", "target": "a" },
+    { "t": 1.5, "unit": "c", "type": "cast", "ability": "bounty_hunter_wind_walk" },
+    { "t": 3.0, "unit": "c", "type": "cast", "ability": "bounty_hunter_wind_walk_ally", "target": "a" },
+    { "t": 4.0, "unit": "a", "type": "attack", "target": "t" },
+    { "t": 6.0, "unit": "c", "type": "attack", "target": "t" } ],
+  "duration": 12.0 }

@@ -1,0 +1,1 @@
+{"id":"h3_slardar_bash_creep","units":[{"tag":"c","name":"npc_dota_hero_slardar","team":0,"x":0,"y":0,"level":30,"abilities":{"slardar_bash":4},"face":[150,0]},{"tag":"k","name":"npc_dota_neutral_black_dragon","team":1,"x":150,"y":0}],"actions":[{"t":0.3,"unit":"c","type":"attack","target":"k"}],"duration":9}

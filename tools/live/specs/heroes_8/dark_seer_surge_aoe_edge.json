@@ -1,0 +1,10 @@
+{ "id": "dark_seer_surge_aoe_edge",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_dark_seer", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "dark_seer_surge": 4 }, "talents": "all", "face": [550, 0] },
+    { "tag": "a", "name": "npc_dota_hero_target_dummy", "team": 0, "x": 550, "y": 0, "face": [0, 0] },
+    { "tag": "a2", "name": "npc_dota_hero_target_dummy", "team": 0, "x": 550, "y": 362, "face": [0, 0] },
+    { "tag": "a3", "name": "npc_dota_hero_target_dummy", "team": 0, "x": 550, "y": -385, "face": [0, 0] },
+    { "tag": "a4", "name": "npc_dota_hero_target_dummy", "team": 0, "x": 895, "y": 0, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "dark_seer_surge", "target": "a" } ],
+  "duration": 4.0 }

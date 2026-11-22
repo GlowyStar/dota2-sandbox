@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Abaddon Shard barrier against Blade Mail (endless reflection)",
+    "seed": 6062,
+    "scenario": {"units":[{"id":"a","team":0,"unit":"tinker","level":9,"talents":"second","scepter":true,"ai":"attack"},{"id":"b","team":1,"unit":"spirit_breaker","level":30,"talents":"first","scepter":true,"items":["desolator","black_king_bar","abyssal_blade"]},{"id":"c","team":1,"unit":"antimage","level":4,"shard":true,"items":["blade_mail"]},{"id":"d","team":0,"unit":"abaddon","level":25,"talents":"all","shard":true}],"rules":{"maxTime":62,"distance":1395}}
+  },
+  {
+    "name": "two Aphotic Shields with Shard feeding each other (Morphling replicating Abaddon)",
+    "seed": 1632499255,
+    "scenario": {"units":[{"id":"a1","team":0,"unit":"npc_dota_hero_abaddon","level":12,"talents":"second","scepter":false,"shard":true,"items":["item_mantle","item_lifesteal","item_ultimate_orb"]},{"id":"a2","team":0,"unit":"npc_dota_hero_undying","level":23,"talents":"second","scepter":true,"shard":false,"items":["item_staff_of_wizardry","item_devastator"],"neutral":["item_mana_draught","item_enhancement_mystical"]},{"id":"a3","team":0,"unit":"npc_dota_hero_naga_siren","level":30,"talents":"first","scepter":false,"shard":false,"items":["item_desolator","item_mekansm","item_holy_locket"],"hp":0.7725495523307473},{"id":"b1","team":1,"unit":"npc_dota_hero_morphling","level":21,"talents":"all","scepter":false,"shard":false,"items":["item_dagon_2","item_blade_mail","item_dagon_4","item_aghanims_shard"]},{"id":"b2","team":1,"unit":"npc_dota_hero_dazzle","level":28,"talents":"second","scepter":false,"shard":false,"items":["item_voodoo_mask","item_orb_of_frost","item_enchanted_mango","item_helm_of_iron_will","item_devastator","item_blitz_knuckles"]}],"rules":{"maxTime":40,"distance":337,"gameTime":"25:00"}}
+  },
+  {
+    "name": "two Io tethered to each other with the attack talent",
+    "seed": 1170407429,
+    "scenario": {"units":[{"id":"a1","team":0,"unit":"npc_dota_hero_furion","level":30,"talents":"first","scepter":false,"shard":false,"items":["item_bloodthorn","item_ring_of_protection","item_eagle","item_dagon","item_rod_of_atos"]},{"id":"a2","team":0,"unit":"npc_dota_hero_necrolyte","level":30,"talents":"1-2-1-2","scepter":true,"shard":false,"items":["item_bloodthorn","item_eagle","item_ancient_janggo","item_sange","item_assault","item_magic_wand"],"ai":"attack"},{"id":"a3","team":0,"unit":"npc_dota_hero_dazzle","level":8,"talents":"second","scepter":false,"shard":false,"items":["item_ring_of_regen","item_diadem"]},{"id":"b1","team":1,"unit":"npc_dota_hero_wisp","level":30,"talents":"first","scepter":false,"shard":true,"items":[],"neutral":["item_pogo_stick"]},{"id":"b2","team":1,"unit":"npc_dota_hero_wisp","level":30,"talents":"second","scepter":false,"shard":false,"items":["item_ancient_janggo","item_splintmail"]},{"id":"b3","team":1,"unit":"npc_dota_hero_faceless_void","level":10,"talents":"none","scepter":false,"shard":true,"items":["item_bracer","item_branches","item_soul_ring","item_cloak","item_relic"],"neutral":["item_divine_regalia","item_enhancement_nimble"]}],"rules":{"maxTime":40,"distance":1328,"gameTime":"36:00","day":false}}
+  },
+  {
+    "name": "Rubick with a stolen Aphotic Shield against Abaddon (both with Shard)",
+    "seed": 991760907,
+    "scenario": {"units":[{"id":"a1","team":0,"unit":"npc_dota_hero_rubick","level":11,"talents":"second","scepter":true,"shard":true,"items":["item_aghanims_shard","item_skypiercer","item_ring_of_health"],"neutral":["item_divine_regalia","item_enhancement_alert"]},{"id":"a2","team":0,"unit":"npc_dota_hero_centaur","level":7,"talents":"all","scepter":true,"shard":true,"items":["item_spirit_vessel","item_quelling_blade"]},{"id":"b1","team":1,"unit":"npc_dota_hero_abaddon","level":30,"talents":"1-2-1-2","scepter":true,"shard":true,"items":["item_void_stone"],"hp":0.4866329960292205}],"rules":{"maxTime":40,"distance":882,"gameTime":"44:00"}}
+  }
+]

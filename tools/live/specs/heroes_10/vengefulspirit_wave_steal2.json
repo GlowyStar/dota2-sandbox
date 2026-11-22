@@ -1,0 +1,9 @@
+{ "id": "vengefulspirit_wave_steal2",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_vengefulspirit", "team": 0, "x": 0, "y": 0, "level": 30,
+      "abilities": { "vengefulspirit_wave_of_terror": 2 }, "talents": ["special_bonus_unique_vengeful_spirit_wave_of_terror_steal"], "face": [1100, 0] },
+    { "tag": "d", "name": "npc_dota_hero_dragon_knight", "team": 1, "x": 600, "y": 0, "level": 30, "items": ["item_platemail"], "face": [0, 0] },
+    { "tag": "h", "name": "npc_dota_hero_axe", "team": 1, "x": 1200, "y": 0, "level": 10, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "vengefulspirit_wave_of_terror", "pos": [1100, 0] } ],
+  "duration": 3.0 }

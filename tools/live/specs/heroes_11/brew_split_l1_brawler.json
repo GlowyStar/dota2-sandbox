@@ -1,0 +1,7 @@
+{ "id": "h11_brew_split_l1_brawler",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_brewmaster", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "brewmaster_primal_split": 1, "brewmaster_drunken_brawler": 4 }, "face": [200, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 200, "y": 0 } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "brewmaster_primal_split" } ],
+  "duration": 21.0 }

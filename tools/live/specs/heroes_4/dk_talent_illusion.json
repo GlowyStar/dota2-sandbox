@@ -1,0 +1,1 @@
+{"id":"h4_dk_talent_illusion","units":[{"tag":"c","name":"npc_dota_hero_dragon_knight","team":0,"x":0,"y":0,"level":30,"abilities":{"dragon_knight_wyrms_wrath":4},"talents":"all","items":["item_manta"],"face":[300,0]},{"tag":"t","name":"npc_dota_hero_target_dummy","team":1,"x":300,"y":0}],"actions":[{"t":0.5,"unit":"c","type":"cast","ability":"item_manta"}],"duration":3}

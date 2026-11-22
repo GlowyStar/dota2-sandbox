@@ -1,0 +1,11 @@
+{ "id": "elder_titan_natural_order_real",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_elder_titan", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "elder_titan_natural_order": 3, "elder_titan_ancestral_spirit": 4 }, "face": [200, 0] },
+    { "tag": "e", "name": "npc_dota_hero_sven", "team": 1, "x": 200, "y": 0, "level": 30, "abilities": {}, "items": ["item_platemail"], "face": [0, 0] },
+    { "tag": "k", "name": "npc_dota_creep_badguys_melee", "team": 1, "x": 200, "y": 200 },
+    { "tag": "f", "name": "npc_dota_hero_sven", "team": 1, "x": 1100, "y": 0, "level": 30, "abilities": {}, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "attack", "target": "e" },
+    { "t": 3.0, "unit": "c", "type": "cast", "ability": "elder_titan_ancestral_spirit", "pos": [1100, 0] },
+    { "t": 3.6, "unit": "c", "type": "attack", "target": "e" } ],
+  "duration": 9.0 }

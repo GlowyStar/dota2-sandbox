@@ -1,0 +1,9 @@
+{ "id": "lycan_wolf_bite_ally",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_lycan", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "lycan_shapeshift": 3 }, "scepter": true, "face": [250, 0] },
+    { "tag": "a", "name": "npc_dota_hero_sniper", "team": 0, "x": 200, "y": 150, "level": 30, "abilities": {}, "face": [400, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 400, "y": 150, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "lycan_wolf_bite", "target": "a" },
+    { "t": 2.5, "unit": "a", "type": "attack", "target": "t" } ],
+  "duration": 10.0 }

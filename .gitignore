@@ -1,0 +1,22 @@
+# run outputs
+results/
+*.log
+
+# live verification: local state, queue and regenerable outputs (the recordings in tools/live/out/scenes are kept)
+tools/live/.channel.lock
+tools/live/.channel_state.json
+tools/live/queue/
+tools/live/out/cache/
+tools/live/out/tmp/
+tools/live/out/report_*.json
+tools/live/out/autocast_change.txt
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+node_modules/
+__pycache__/
+*.pyc
+tools/live/out/report.json

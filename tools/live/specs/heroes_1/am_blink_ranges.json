@@ -1,0 +1,1 @@
+{"id":"h1_am_blink_ranges","units":[{"tag":"c","name":"npc_dota_hero_antimage","team":0,"x":-600,"y":0,"level":30,"abilities":{"antimage_blink":4},"face":[0,0]}],"actions":[{"t":0.5,"unit":"c","type":"cast","ability":"antimage_blink","pos":[-500,0]},{"t":7,"unit":"c","type":"cast","ability":"antimage_blink","pos":[1400,0]}],"duration":9}

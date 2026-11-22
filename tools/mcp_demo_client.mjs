@@ -1,0 +1,24 @@
+// Speaks MCP to the server over stdio, exactly like a client would.
+import { spawn } from 'node:child_process';
+const child = spawn(process.execPath, [new URL('../src/cli.mjs', import.meta.url).pathname.replace(/^\/(\w:)/, '$1'), 'mcp'], { stdio: ['pipe', 'pipe', 'inherit'] });
+let buf = ''; const waiting = new Map(); let nextId = 1;
+child.stdout.on('data', (d) => { buf += d; let i; while ((i = buf.indexOf('\n')) >= 0) { const line = buf.slice(0, i); buf = buf.slice(i + 1); if (!line.trim()) continue; const m = JSON.parse(line); const w = waiting.get(m.id); if (w) { waiting.delete(m.id); w(m); } } });
+const rpc = (method, params) => new Promise((res) => { const id = nextId++; waiting.set(id, res); child.stdin.write(JSON.stringify({ jsonrpc: '2.0', id, method, params }) + '\n'); });
+const call = async (name, args) => { const r = await rpc('tools/call', { name, arguments: args }); const t = r.result.content[0].text; return r.result.isError ? { ERROR: t } : JSON.parse(t); };
+const show = (label, o, n = 700) => console.log(`--- ${label}\n${JSON.stringify(o).slice(0, n)}`);
+const init = await rpc('initialize', { protocolVersion: '2025-06-18', capabilities: {}, clientInfo: { name: 'test', version: '0' } });
+show('initialize', init.result, 300);
+child.stdin.write(JSON.stringify({ jsonrpc: '2.0', method: 'notifications/initialized' }) + '\n');
+const tl = await rpc('tools/list', {});
+console.log('tools:', tl.result.tools.map((t) => t.name).join(', '));
+show('sim_info', await call('sim_info', {}), 500);
+show('sim_list heroes q=carry', await call('sim_list', { kind: 'heroes', query: 'antimage' }), 400);
+show('sim_sheet', await call('sim_sheet', { unit: { unit: 'Phantom Assassin', level: 20, items: ['desolator', 'Black King Bar'] } }), 600);
+show('sim_run', await call('sim_run', { scenario: { units: [{ id: 'pa', team: 0, unit: 'phantom_assassin', level: 20, items: ['desolator', 'basher'] }, { id: 'sven', team: 1, unit: 'sven', level: 20, items: ['echo_sabre'] }] }, seed: 5 }), 900);
+show('sim_batch', await call('sim_batch', { scenario: { units: [{ id: 'a', team: 0, unit: 'sven', level: 20 }, { id: 'b', team: 1, unit: 'axe', level: 20 }] }, vary: { 'units.0.items': [['desolator'], ['greater_crit'], ['skadi'], ['monkey_king_bar']] }, runs: 500, workers: 4, sort: 'winrate' }), 1500);
+show('sim_matrix', await call('sim_matrix', { a: ['sven', 'juggernaut', 'ursa'], b: ['axe', 'lina', 'sniper'], common: { level: 15 }, runs: 100, workers: 4 }), 900);
+show('sandbox', await call('sandbox', { commands: [{ op: 'new', seed: 3 }, { op: 'spawn', unit: 'juggernaut', team: 0, level: 12, id: 'jug', items: ['bfury'] }, { op: 'spawn', unit: 'npc_dota_neutral_kobold', team: 1, count: 3, id: 'kob', pos: [300, 0] }, { op: 'spawn', unit: 'roshan', team: 1, id: 'rosh', pos: [900, 0] }, { op: 'order', id: 'jug', type: 'attack', target: 'kob1' }, { op: 'step', seconds: 5 }, { op: 'state' }, { op: 'log', last: 6 }] }), 2600);
+show('sim_describe', await call('sim_describe', { name: 'Desolator' }), 700);
+show('error handling', await call('sim_run', { scenario: { units: [{ unit: 'not_a_hero' }] } }), 300);
+show('sim_coverage', (await call('sim_coverage', {})).summary, 600);
+child.stdin.end();

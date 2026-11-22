@@ -1,0 +1,10 @@
+{ "id": "elder_titan_spirit_buff_attack_tal",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_elder_titan", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "elder_titan_ancestral_spirit": 4 }, "talents": "all", "face": [150, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 150, "y": 0, "face": [0, 0] },
+    { "tag": "k", "name": "npc_dota_creep_badguys_melee", "team": 1, "x": 150, "y": 200 } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "elder_titan_ancestral_spirit", "pos": [150, 100] },
+    { "t": 2.0, "unit": "c", "type": "cast", "ability": "elder_titan_return_spirit" },
+    { "t": 3.5, "unit": "c", "type": "attack", "target": "t" } ],
+  "duration": 10.0 }

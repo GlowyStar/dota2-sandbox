@@ -1,0 +1,9 @@
+{ "id": "dark_seer_punch_max",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_dark_seer", "team": 0, "x": -600, "y": 0, "level": 30, "abilities": { "dark_seer_surge": 4 }, "scepter": true, "face": [600, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 740, "y": 0, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "dark_seer_surge", "target": "c" },
+    { "t": 1.0, "unit": "c", "type": "move", "pos": [550, 0] },
+    { "t": 3.2, "unit": "c", "type": "attack", "target": "t" } ],
+  "duration": 9.0 }

@@ -1,0 +1,1 @@
+{"id":"item_solar_crest.attack","item":"item_solar_crest","kind":"attack","units":[{"tag":"c","name":"npc_dota_hero_sven","team":0,"x":0,"y":0,"level":20,"abilities":{},"items":["item_solar_crest"],"face":[150,0]},{"tag":"t","name":"npc_dota_hero_target_dummy","team":1,"x":150,"y":0,"face":[0,0]}],"actions":[{"t":0.5,"unit":"c","type":"attack","target":"t"}],"duration":10}

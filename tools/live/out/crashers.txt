@@ -1,0 +1,5 @@
+shredder_chakram.sc
+wisp_equilibrium
+wisp_overcharge.tal
+wisp_spirits
+wisp_spirits.sc

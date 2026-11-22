@@ -1,0 +1,1 @@
+{"id":"h3_lion_drain_empty","units":[{"tag":"c","name":"npc_dota_hero_lion","team":0,"x":0,"y":0,"level":30,"abilities":{"lion_mana_drain":4},"face":[500,0]},{"tag":"v","name":"npc_dota_hero_crystal_maiden","team":1,"x":500,"y":0,"level":1,"face":[0,0]}],"actions":[{"t":0.5,"unit":"c","type":"cast","ability":"lion_mana_drain","target":"v"}],"duration":8}

@@ -1,0 +1,10 @@
+{
+ "units": [
+  "npc_dota_hero_shredder",
+  "npc_dota_hero_wisp"
+ ],
+ "abilityPrefixes": [
+  "shredder_",
+  "wisp_"
+ ]
+}

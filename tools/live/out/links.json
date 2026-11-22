@@ -1,0 +1,2149 @@
+{
+ "follow": {
+  "alchemist_unstable_concoction": {
+   "alchemist_unstable_concoction_throw": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "alchemist_unstable_concoction_throw": {
+   "alchemist_unstable_concoction": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "ancient_apparition_ice_blast": {
+   "ancient_apparition_ice_blast_release": {
+    "1": 1,
+    "2": 1,
+    "3": 1
+   }
+  },
+  "ancient_apparition_ice_blast_release": {
+   "ancient_apparition_ice_blast": {
+    "1": 1
+   }
+  },
+  "bane_nightmare": {
+   "bane_nightmare_end": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1
+   }
+  },
+  "centaur_work_horse": {
+   "centaur_mount": {
+    "1": 1
+   }
+  },
+  "crystal_maiden_freezing_field": {
+   "crystal_maiden_freezing_field_stop": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "crystal_maiden_freezing_field_stop": {
+   "crystal_maiden_freezing_field": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "dark_willow_bedlam": {
+   "dark_willow_terrorize": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "dark_willow_terrorize": {
+   "dark_willow_bedlam": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "dawnbreaker_celestial_hammer": {
+   "dawnbreaker_converge": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "dawnbreaker_land": {
+   "dawnbreaker_solar_guardian": {
+    "1": 1
+   }
+  },
+  "dawnbreaker_solar_guardian": {
+   "dawnbreaker_land": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "dazzle_nothl_projection": {
+   "dazzle_nothl_projection_end": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "dazzle_through_the_realm": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "elder_titan_ancestral_spirit": {
+   "elder_titan_move_spirit": {
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "elder_titan_return_spirit": {
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "ember_spirit_fire_remnant": {
+   "ember_spirit_activate_fire_remnant": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "hoodwink_sharpshooter": {
+   "hoodwink_sharpshooter_release": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "jakiro_liquid_fire": {
+   "jakiro_liquid_ice": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "jakiro_liquid_ice": {
+   "jakiro_liquid_fire": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "keeper_of_the_light_illuminate": {
+   "keeper_of_the_light_illuminate_end": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "keeper_of_the_light_spirit_form": {
+   "keeper_of_the_light_radiant_bind": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "kez_echo_slash": {
+   "kez_falcon_rush": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "kez_falcon_rush": {
+   "kez_echo_slash": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "kez_grappling_claw": {
+   "kez_talon_toss": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "kez_kazurai_katana": {
+   "kez_shodo_sai": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "kez_shodo_sai_parry_cancel": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "kez_raptor_dance": {
+   "kez_ravens_veil": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "kez_ravens_veil": {
+   "kez_raptor_dance": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "kez_shodo_sai": {
+   "kez_kazurai_katana": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "kez_shodo_sai_parry_cancel": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "kez_shodo_sai_parry_cancel": {
+   "kez_kazurai_katana": {
+    "1": 1
+   },
+   "kez_shodo_sai": {
+    "1": 1
+   }
+  },
+  "kez_talon_toss": {
+   "kez_grappling_claw": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "kunkka_return": {
+   "kunkka_x_marks_the_spot": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "kunkka_x_marks_the_spot": {
+   "kunkka_return": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "largo_amphibian_rhapsody": {
+   "largo_song_double_time": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "largo_song_fight_song": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "largo_song_good_vibrations": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "life_stealer_consume": {
+   "life_stealer_infest": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "life_stealer_infest": {
+   "life_stealer_consume": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "lycan_shapeshift": {
+   "lycan_wolf_bite": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "meepo_divided_we_stand": {
+   "meepo_fling_release": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "meepo_fling_release": {
+   "meepo_divided_we_stand": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "monkey_king_primal_spring": {
+   "monkey_king_primal_spring_early": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "monkey_king_tree_dance": {
+   "monkey_king_primal_spring": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "monkey_king_primal_spring_early": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "monkey_king_wukongs_command": {
+   "monkey_king_transfiguration": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "morphling_morph_agi": {
+   "morphling_morph_str": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "morphling_morph_replicate": {
+   "morphling_replicate": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "morphling_morph_str": {
+   "morphling_morph_agi": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "morphling_replicate": {
+   "morphling_morph_replicate": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "naga_siren_ensnare": {
+   "naga_siren_reel_in": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "naga_siren_song_of_the_siren": {
+   "naga_siren_song_of_the_siren_cancel": {
+    "1": 1,
+    "2": 1,
+    "3": 1
+   }
+  },
+  "nevermore_shadowraze1": {
+   "nevermore_shadowraze2": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "nevermore_shadowraze3": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "nevermore_shadowraze2": {
+   "nevermore_shadowraze1": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "nevermore_shadowraze3": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "nevermore_shadowraze3": {
+   "nevermore_shadowraze1": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "nevermore_shadowraze2": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "nyx_assassin_burrow": {
+   "nyx_assassin_unburrow": {
+    "1": 1
+   }
+  },
+  "nyx_assassin_unburrow": {
+   "nyx_assassin_burrow": {
+    "1": 1
+   }
+  },
+  "pangolier_gyroshell": {
+   "pangolier_gyroshell_stop": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "pangolier_gyroshell_stop": {
+   "pangolier_gyroshell": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "pangolier_rollup": {
+   "pangolier_rollup_stop": {
+    "1": 1
+   }
+  },
+  "pangolier_rollup_stop": {
+   "pangolier_rollup": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "phoenix_fire_spirits": {
+   "phoenix_launch_fire_spirit": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "phoenix_icarus_dive": {
+   "phoenix_icarus_dive_stop": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "phoenix_icarus_dive_stop": {
+   "phoenix_icarus_dive": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "phoenix_launch_fire_spirit": {
+   "phoenix_fire_spirits": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "phoenix_sun_ray": {
+   "phoenix_sun_ray_stop": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "phoenix_sun_ray_toggle_move": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1
+   }
+  },
+  "phoenix_sun_ray_stop": {
+   "phoenix_sun_ray": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "primal_beast_onslaught": {
+   "primal_beast_onslaught_release": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "puck_illusory_orb": {
+   "puck_ethereal_jaunt": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "rattletrap_jetpack": {
+   "rattletrap_jetpack_toggle": {
+    "1": 1
+   }
+  },
+  "ringmaster_tame_the_beasts": {
+   "ringmaster_tame_the_beasts_crack": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "rubick_telekinesis": {
+   "rubick_telekinesis_land": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1
+   },
+   "rubick_telekinesis_land_self": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1
+   }
+  },
+  "shadow_demon_shadow_poison": {
+   "shadow_demon_shadow_poison_release": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1
+   }
+  },
+  "shredder_chakram": {
+   "shredder_return_chakram": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "snapfire_gobble_up": {
+   "snapfire_spit_creep": {
+    "1": 1
+   }
+  },
+  "spectre_haunt": {
+   "spectre_reality": {
+    "1": 1,
+    "2": 1,
+    "3": 1
+   }
+  },
+  "spectre_shadow_step": {
+   "spectre_reality": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "techies_land_mines": {
+   "techies_minefield_sign": {
+    "1": 1,
+    "2": 1,
+    "3": 1
+   }
+  },
+  "techies_reactive_tazer": {
+   "techies_reactive_tazer_stop": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "templar_assassin_psionic_trap": {
+   "templar_assassin_trap": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "templar_assassin_trap_teleport": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "tinker_rearm": {
+   "tinker_keen_teleport": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "tiny_toss_tree": {
+   "tiny_tree_grab": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "tiny_tree_grab": {
+   "tiny_toss_tree": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "troll_warlord_whirling_axes_melee": {
+   "troll_warlord_whirling_axes_ranged": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "troll_warlord_whirling_axes_ranged": {
+   "troll_warlord_whirling_axes_melee": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "tusk_snowball": {
+   "tusk_launch_snowball": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "visage_summon_familiars": {
+   "visage_stone_form_self_cast": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   },
+   "visage_summon_familiars_stone_form": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "weaver_time_lapse": {
+   "weaver_time_lapse_ally": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+   }
+  },
+  "windrunner_focusfire": {
+   "windrunner_focusfire_cancel": {
+    "1": 1,
+    "2": 1,
+    "3": 1
+   }
+  },
+  "wisp_spirits": {
+   "wisp_spirits_in": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "wisp_spirits_out": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "wisp_spirits_in": {
+   "wisp_spirits": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "wisp_spirits_out": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "wisp_spirits_out": {
+   "wisp_spirits": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   },
+   "wisp_spirits_in": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "wisp_tether": {
+   "wisp_tether_break": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  },
+  "wisp_tether_break": {
+   "wisp_tether": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4
+   }
+  }
+ },
+ "fresh": {
+  "abaddon_withering_mist": [
+   1,
+   1
+  ],
+  "abyssal_underlord_raid_boss": [
+   1,
+   1
+  ],
+  "alchemist_goblins_greed": [
+   1,
+   1
+  ],
+  "ancient_apparition_bone_chill": [
+   1,
+   1
+  ],
+  "antimage_persectur": [
+   1,
+   1
+  ],
+  "arc_warden_runic_infusion": [
+   1,
+   1
+  ],
+  "axe_one_man_army": [
+   1,
+   1
+  ],
+  "bane_ichor_of_nyctasha": [
+   1,
+   1
+  ],
+  "batrider_smoldering_resin": [
+   1,
+   1
+  ],
+  "beastmaster_inner_beast": [
+   1,
+   1
+  ],
+  "bloodseeker_sanguivore": [
+   1,
+   1
+  ],
+  "bounty_hunter_big_game_hunter": [
+   1,
+   1
+  ],
+  "brewmaster_liquid_courage": [
+   1,
+   1
+  ],
+  "bristleback_prickly": [
+   1,
+   1
+  ],
+  "broodmother_spiders_milk": [
+   1,
+   1
+  ],
+  "centaur_horsepower": [
+   1,
+   1
+  ],
+  "chaos_knight_armageddon": [
+   1,
+   1
+  ],
+  "chaos_knight_armageddons_flank_end": [
+   1,
+   1
+  ],
+  "chen_zealot": [
+   1,
+   1
+  ],
+  "clinkz_infernal_shred": [
+   1,
+   1
+  ],
+  "crystal_maiden_glacial_guard": [
+   1,
+   1
+  ],
+  "dark_seer_aggrandize": [
+   1,
+   1
+  ],
+  "dark_willow_pixie_dust": [
+   1,
+   1
+  ],
+  "dawnbreaker_break_of_dawn": [
+   1,
+   1
+  ],
+  "dazzle_innate_weave": [
+   1,
+   1
+  ],
+  "death_prophet_witchcraft": [
+   1,
+   1
+  ],
+  "disruptor_electromagnetic_repulsion": [
+   1,
+   1
+  ],
+  "doom_bringer_lvl_pain": [
+   1,
+   1
+  ],
+  "dragon_knight_dragon_blood": [
+   1,
+   1
+  ],
+  "drow_ranger_trueshot": [
+   1,
+   1
+  ],
+  "earth_spirit_stone_caller": [
+   1,
+   1
+  ],
+  "earthshaker_slugger": [
+   1,
+   1
+  ],
+  "elder_titan_momentum": [
+   1,
+   1
+  ],
+  "elder_titan_move_spirit": [
+   1,
+   1
+  ],
+  "elder_titan_return_spirit": [
+   1,
+   1
+  ],
+  "ember_spirit_immolation": [
+   1,
+   1
+  ],
+  "enchantress_rabblerouser": [
+   1,
+   1
+  ],
+  "enigma_event_horizon": [
+   1,
+   1
+  ],
+  "faceless_void_distortion_field": [
+   1,
+   1
+  ],
+  "furion_spirit_of_the_forest": [
+   1,
+   1
+  ],
+  "grimstroke_ink_trail": [
+   1,
+   1
+  ],
+  "gyrocopter_afterburner": [
+   1,
+   1
+  ],
+  "hoodwink_mistwoods_wayfarer": [
+   1,
+   1
+  ],
+  "huskar_blood_magic": [
+   1,
+   1
+  ],
+  "invoker_alacrity": [
+   1,
+   1
+  ],
+  "invoker_chaos_meteor": [
+   1,
+   1
+  ],
+  "invoker_cold_snap": [
+   1,
+   1
+  ],
+  "invoker_deafening_blast": [
+   1,
+   1
+  ],
+  "invoker_emp": [
+   1,
+   1
+  ],
+  "invoker_forge_spirit": [
+   1,
+   1
+  ],
+  "invoker_ghost_walk": [
+   1,
+   1
+  ],
+  "invoker_ice_wall": [
+   1,
+   1
+  ],
+  "invoker_invoke": [
+   1,
+   1
+  ],
+  "invoker_sun_strike": [
+   1,
+   1
+  ],
+  "invoker_tornado": [
+   1,
+   1
+  ],
+  "jakiro_double_trouble": [
+   1,
+   1
+  ],
+  "juggernaut_bladeform": [
+   1,
+   1
+  ],
+  "keeper_of_the_light_bright_speed": [
+   1,
+   1
+  ],
+  "kez_switch_weapons": [
+   1,
+   1
+  ],
+  "kunkka_admirals_rum": [
+   1,
+   1
+  ],
+  "largo_encore": [
+   1,
+   1
+  ],
+  "legion_commander_outfight_them": [
+   1,
+   1
+  ],
+  "leshrac_defilement": [
+   1,
+   1
+  ],
+  "lich_death_charge": [
+   1,
+   1
+  ],
+  "life_stealer_ghoul_frenzy": [
+   1,
+   1
+  ],
+  "lina_slow_burn": [
+   1,
+   1
+  ],
+  "lion_to_hell_and_back": [
+   1,
+   1
+  ],
+  "lone_druid_spirit_bear": [
+   1,
+   1
+  ],
+  "luna_lunar_blessing": [
+   1,
+   1
+  ],
+  "lycan_pack_hunter": [
+   1,
+   1
+  ],
+  "magnataur_solid_core": [
+   1,
+   1
+  ],
+  "marci_special_delivery": [
+   1,
+   1
+  ],
+  "mars_dauntless": [
+   1,
+   1
+  ],
+  "medusa_mana_shield": [
+   1,
+   1
+  ],
+  "meepo_geomancy": [
+   1,
+   1
+  ],
+  "mirana_celestial_quiver": [
+   1,
+   1
+  ],
+  "monkey_king_mischief": [
+   1,
+   1
+  ],
+  "monkey_king_untransform": [
+   1,
+   1
+  ],
+  "morphling_ebb_and_flow": [
+   1,
+   1
+  ],
+  "muerta_supernatural": [
+   1,
+   1
+  ],
+  "naga_siren_eelskin": [
+   1,
+   1
+  ],
+  "necrolyte_sadist": [
+   1,
+   1
+  ],
+  "nevermore_necromastery": [
+   1,
+   1
+  ],
+  "night_stalker_hunter_in_the_night": [
+   1,
+   1
+  ],
+  "nyx_assassin_scarab_metabolism": [
+   1,
+   1
+  ],
+  "obsidian_destroyer_equilibrium": [
+   1,
+   1
+  ],
+  "ogre_magi_dumb_luck": [
+   1,
+   1
+  ],
+  "omniknight_degen_aura": [
+   1,
+   1
+  ],
+  "oracle_diviners_deck": [
+   1,
+   1
+  ],
+  "oracle_prognosticate": [
+   1,
+   1
+  ],
+  "pangolier_fortune_favors_the_bold": [
+   1,
+   1
+  ],
+  "phantom_assassin_blur": [
+   1,
+   1
+  ],
+  "phantom_lancer_illusory_armaments": [
+   1,
+   1
+  ],
+  "phoenix_dying_light": [
+   1,
+   1
+  ],
+  "primal_beast_colossal": [
+   1,
+   1
+  ],
+  "puck_puckish": [
+   1,
+   1
+  ],
+  "pudge_innate_graft_flesh": [
+   1,
+   1
+  ],
+  "pugna_oblivion_savant": [
+   1,
+   1
+  ],
+  "queenofpain_succubus": [
+   1,
+   1
+  ],
+  "rattletrap_armor_power": [
+   1,
+   1
+  ],
+  "razor_unstable_current": [
+   1,
+   1
+  ],
+  "riki_innate_backstab": [
+   1,
+   1
+  ],
+  "ringmaster_dark_carnival_souvenirs": [
+   1,
+   1
+  ],
+  "ringmaster_empty_souvenir": [
+   1,
+   1
+  ],
+  "ringmaster_funhouse_mirror": [
+   1,
+   1
+  ],
+  "ringmaster_strongman_tonic": [
+   1,
+   1
+  ],
+  "ringmaster_summon_unicycle": [
+   1,
+   1
+  ],
+  "ringmaster_whoopee_cushion": [
+   1,
+   1
+  ],
+  "rubick_curiosity": [
+   1,
+   1
+  ],
+  "sandking_caustic_finale": [
+   1,
+   1
+  ],
+  "shadow_demon_menace": [
+   1,
+   1
+  ],
+  "shadow_shaman_fowl_play": [
+   1,
+   1
+  ],
+  "shredder_exposure_therapy": [
+   1,
+   1
+  ],
+  "silencer_brain_drain": [
+   1,
+   1
+  ],
+  "skeleton_king_vampiric_spirit": [
+   1,
+   1
+  ],
+  "skywrath_mage_shield_of_the_scion": [
+   1,
+   1
+  ],
+  "slardar_seaborn_sentinel": [
+   1,
+   1
+  ],
+  "slark_essence_shift": [
+   1,
+   1
+  ],
+  "snapfire_boomstick": [
+   1,
+   1
+  ],
+  "sniper_keen_scope": [
+   1,
+   1
+  ],
+  "spectre_desolate": [
+   1,
+   1
+  ],
+  "spirit_breaker_bull_rush": [
+   1,
+   1
+  ],
+  "storm_spirit_galvanized": [
+   1,
+   1
+  ],
+  "sven_wrath_of_god": [
+   1,
+   1
+  ],
+  "techies_mutually_assured_destruction": [
+   1,
+   1
+  ],
+  "templar_assassin_inner_peace": [
+   1,
+   1
+  ],
+  "terrorblade_dark_unity": [
+   1,
+   1
+  ],
+  "tidehunter_leviathans_catch": [
+   1,
+   1
+  ],
+  "tinker_eureka": [
+   1,
+   1
+  ],
+  "tiny_insurmountable": [
+   1,
+   1
+  ],
+  "treant_natures_guise": [
+   1,
+   1
+  ],
+  "troll_warlord_switch_stance": [
+   1,
+   1
+  ],
+  "tusk_bitter_chill": [
+   1,
+   1
+  ],
+  "undying_ceaseless_dirge": [
+   1,
+   1
+  ],
+  "ursa_maul": [
+   1,
+   1
+  ],
+  "vengefulspirit_retribution": [
+   1,
+   1
+  ],
+  "venomancer_poison_sting": [
+   1,
+   1
+  ],
+  "viper_predator": [
+   1,
+   1
+  ],
+  "visage_silent_as_the_grave": [
+   1,
+   1
+  ],
+  "void_spirit_intrinsic_edge": [
+   1,
+   1
+  ],
+  "warlock_eldritch_summoning": [
+   1,
+   1
+  ],
+  "weaver_threads_of_fate": [
+   1,
+   1
+  ],
+  "windrunner_tailwind": [
+   1,
+   1
+  ],
+  "winter_wyvern_eldwurms_edda": [
+   1,
+   1
+  ],
+  "wisp_equilibrium": [
+   1,
+   1
+  ],
+  "witch_doctor_gris_gris": [
+   1,
+   1
+  ],
+  "zuus_static_field": [
+   1,
+   1
+  ]
+ },
+ "maxLevel": {
+  "abaddon_aphotic_shield": 4,
+  "abaddon_borrowed_time": 3,
+  "abaddon_death_coil": 4,
+  "abaddon_frostmourne": 4,
+  "abaddon_withering_mist": 1,
+  "plus_guild_banner": 1,
+  "plus_high_five": 1,
+  "abyssal_underlord_atrophy_aura": 4,
+  "abyssal_underlord_dark_portal": 3,
+  "abyssal_underlord_firestorm": 4,
+  "abyssal_underlord_pit_of_malice": 4,
+  "abyssal_underlord_raid_boss": 1,
+  "alchemist_acid_spray": 4,
+  "alchemist_berserk_potion": 1,
+  "alchemist_chemical_rage": 3,
+  "alchemist_corrosive_weaponry": 4,
+  "alchemist_goblins_greed": 1,
+  "alchemist_unstable_concoction": 4,
+  "alchemist_unstable_concoction_throw": 4,
+  "ancient_apparition_bone_chill": 1,
+  "ancient_apparition_chilling_touch": 4,
+  "ancient_apparition_cold_feet": 4,
+  "ancient_apparition_ice_blast": 3,
+  "ancient_apparition_ice_blast_release": 1,
+  "ancient_apparition_ice_vortex": 4,
+  "antimage_blink": 4,
+  "antimage_counterspell": 4,
+  "antimage_mana_break": 4,
+  "antimage_mana_void": 3,
+  "antimage_persectur": 1,
+  "arc_warden_flux": 4,
+  "arc_warden_magnetic_field": 4,
+  "arc_warden_runic_infusion": 1,
+  "arc_warden_spark_wraith": 4,
+  "arc_warden_tempest_double": 3,
+  "axe_battle_hunger": 4,
+  "axe_berserkers_call": 4,
+  "axe_counter_helix": 4,
+  "axe_culling_blade": 3,
+  "axe_one_man_army": 1,
+  "bane_brain_sap": 4,
+  "bane_enfeeble": 4,
+  "bane_fiends_grip": 3,
+  "bane_ichor_of_nyctasha": 1,
+  "bane_nightmare": 4,
+  "bane_nightmare_end": 1,
+  "batrider_firefly": 4,
+  "batrider_flamebreak": 4,
+  "batrider_flaming_lasso": 3,
+  "batrider_smoldering_resin": 1,
+  "batrider_sticky_napalm": 4,
+  "batrider_sticky_napalm_application_damage": 1,
+  "beastmaster_inner_beast": 1,
+  "beastmaster_primal_roar": 3,
+  "beastmaster_summon_raptor": 4,
+  "beastmaster_summon_razorback": 4,
+  "beastmaster_summon_thunderhide": 1,
+  "beastmaster_wild_axes": 4,
+  "bloodseeker_blood_bath": 4,
+  "bloodseeker_bloodrage": 4,
+  "bloodseeker_rupture": 3,
+  "bloodseeker_sanguivore": 1,
+  "bloodseeker_thirst": 4,
+  "bounty_hunter_big_game_hunter": 1,
+  "bounty_hunter_jinada": 4,
+  "bounty_hunter_shuriken_toss": 4,
+  "bounty_hunter_track": 3,
+  "bounty_hunter_wind_walk": 4,
+  "bounty_hunter_wind_walk_ally": 1,
+  "brewmaster_cinder_brew": 4,
+  "brewmaster_drunken_brawler": 4,
+  "brewmaster_liquid_courage": 1,
+  "brewmaster_primal_split": 3,
+  "brewmaster_thunder_clap": 4,
+  "bristleback_bristleback": 4,
+  "bristleback_hairball": 1,
+  "bristleback_prickly": 1,
+  "bristleback_quill_spray": 4,
+  "bristleback_viscous_nasal_goo": 4,
+  "bristleback_warpath": 3,
+  "broodmother_incapacitating_bite": 4,
+  "broodmother_insatiable_hunger": 4,
+  "broodmother_spawn_spiderlings": 3,
+  "broodmother_spiders_milk": 1,
+  "broodmother_spin_web": 4,
+  "broodmother_sticky_snare": 1,
+  "centaur_double_edge": 4,
+  "centaur_hoof_stomp": 4,
+  "centaur_horsepower": 1,
+  "centaur_mount": 1,
+  "centaur_return": 4,
+  "centaur_stampede": 3,
+  "centaur_work_horse": 1,
+  "chaos_knight_armageddon": 1,
+  "chaos_knight_armageddons_flank_end": 1,
+  "chaos_knight_chaos_bolt": 4,
+  "chaos_knight_chaos_strike": 4,
+  "chaos_knight_phantasm": 3,
+  "chaos_knight_reality_rift": 4,
+  "chen_divine_favor": 4,
+  "chen_hand_of_god": 3,
+  "chen_holy_persuasion": 4,
+  "chen_penitence": 4,
+  "chen_zealot": 1,
+  "clinkz_burning_army": 1,
+  "clinkz_burning_barrage": 1,
+  "clinkz_death_pact": 4,
+  "clinkz_infernal_shred": 1,
+  "clinkz_searing_arrows": 4,
+  "clinkz_strafe": 4,
+  "clinkz_wind_walk": 3,
+  "crystal_maiden_brilliance_aura": 4,
+  "crystal_maiden_crystal_clone": 1,
+  "crystal_maiden_crystal_nova": 4,
+  "crystal_maiden_freezing_field": 3,
+  "crystal_maiden_freezing_field_stop": 3,
+  "crystal_maiden_frostbite": 4,
+  "crystal_maiden_glacial_guard": 1,
+  "dark_seer_aggrandize": 1,
+  "dark_seer_ion_shell": 4,
+  "dark_seer_normal_punch": 1,
+  "dark_seer_surge": 4,
+  "dark_seer_vacuum": 4,
+  "dark_seer_wall_of_replica": 3,
+  "dark_willow_bedlam": 3,
+  "dark_willow_bramble_maze": 4,
+  "dark_willow_cursed_crown": 4,
+  "dark_willow_pixie_dust": 1,
+  "dark_willow_shadow_realm": 4,
+  "dark_willow_terrorize": 3,
+  "dawnbreaker_break_of_dawn": 1,
+  "dawnbreaker_celestial_hammer": 4,
+  "dawnbreaker_converge": 4,
+  "dawnbreaker_fire_wreath": 4,
+  "dawnbreaker_land": 1,
+  "dawnbreaker_luminosity": 4,
+  "dawnbreaker_solar_guardian": 3,
+  "dazzle_innate_weave": 1,
+  "dazzle_nothl_projection": 3,
+  "dazzle_nothl_projection_end": 3,
+  "dazzle_poison_touch": 4,
+  "dazzle_shadow_wave": 4,
+  "dazzle_shallow_grave": 4,
+  "dazzle_through_the_realm": 3,
+  "death_prophet_carrion_swarm": 4,
+  "death_prophet_exorcism": 3,
+  "death_prophet_silence": 4,
+  "death_prophet_spirit_siphon": 4,
+  "death_prophet_witchcraft": 1,
+  "disruptor_electromagnetic_repulsion": 1,
+  "disruptor_glimpse": 4,
+  "disruptor_kinetic_fence": 1,
+  "disruptor_kinetic_field": 4,
+  "disruptor_static_storm": 3,
+  "disruptor_thunder_strike": 4,
+  "doom_bringer_devour": 4,
+  "doom_bringer_doom": 3,
+  "doom_bringer_empty1": 0,
+  "doom_bringer_empty2": 0,
+  "doom_bringer_infernal_blade": 4,
+  "doom_bringer_lvl_pain": 1,
+  "doom_bringer_scorched_earth": 4,
+  "dragon_knight_breathe_fire": 4,
+  "dragon_knight_dragon_blood": 4,
+  "dragon_knight_dragon_tail": 4,
+  "dragon_knight_elder_dragon_form": 3,
+  "dragon_knight_fireball": 1,
+  "dragon_knight_wyrms_wrath": 4,
+  "drow_ranger_frost_arrows": 4,
+  "drow_ranger_glacier": 1,
+  "drow_ranger_marksmanship": 3,
+  "drow_ranger_multishot": 4,
+  "drow_ranger_trueshot": 1,
+  "drow_ranger_wave_of_silence": 4,
+  "earth_spirit_boulder_smash": 4,
+  "earth_spirit_geomagnetic_grip": 4,
+  "earth_spirit_magnetize": 3,
+  "earth_spirit_petrify": 1,
+  "earth_spirit_rolling_boulder": 4,
+  "earth_spirit_stone_caller": 1,
+  "earthshaker_aftershock": 4,
+  "earthshaker_echo_slam": 3,
+  "earthshaker_enchant_totem": 4,
+  "earthshaker_fissure": 4,
+  "earthshaker_slugger": 1,
+  "elder_titan_ancestral_spirit": 4,
+  "elder_titan_earth_splitter": 3,
+  "elder_titan_echo_stomp": 4,
+  "elder_titan_momentum": 1,
+  "elder_titan_move_spirit": 1,
+  "elder_titan_natural_order": 4,
+  "elder_titan_return_spirit": 1,
+  "ember_spirit_activate_fire_remnant": 3,
+  "ember_spirit_fire_remnant": 3,
+  "ember_spirit_flame_guard": 4,
+  "ember_spirit_immolation": 1,
+  "ember_spirit_searing_chains": 4,
+  "ember_spirit_sleight_of_fist": 4,
+  "enchantress_bunny_hop": 1,
+  "enchantress_enchant": 4,
+  "enchantress_impetus": 4,
+  "enchantress_little_friends": 1,
+  "enchantress_natures_attendants": 4,
+  "enchantress_rabblerouser": 1,
+  "enchantress_untouchable": 3,
+  "enigma_black_hole": 3,
+  "enigma_demonic_conversion": 4,
+  "enigma_event_horizon": 1,
+  "enigma_malefice": 4,
+  "enigma_midnight_pulse": 4,
+  "faceless_void_chronosphere": 3,
+  "faceless_void_distortion_field": 1,
+  "faceless_void_time_dilation": 4,
+  "faceless_void_time_lock": 4,
+  "faceless_void_time_walk": 4,
+  "faceless_void_time_walk_reverse": 1,
+  "furion_curse_of_the_forest": 1,
+  "furion_force_of_nature": 4,
+  "furion_spirit_of_the_forest": 1,
+  "furion_sprout": 4,
+  "furion_teleportation": 4,
+  "furion_wrath_of_nature": 3,
+  "grimstroke_dark_artistry": 4,
+  "grimstroke_dark_portrait": 1,
+  "grimstroke_ink_creature": 4,
+  "grimstroke_ink_trail": 1,
+  "grimstroke_soul_chain": 3,
+  "grimstroke_spirit_walk": 4,
+  "gyrocopter_afterburner": 1,
+  "gyrocopter_call_down": 3,
+  "gyrocopter_flak_cannon": 4,
+  "gyrocopter_homing_missile": 4,
+  "gyrocopter_rocket_barrage": 4,
+  "gyrocopter_side_gunner_spawn_ability": 1,
+  "hoodwink_acorn_shot": 4,
+  "hoodwink_bushwhack": 4,
+  "hoodwink_decoy": 1,
+  "hoodwink_hunters_boomerang": 1,
+  "hoodwink_mistwoods_wayfarer": 1,
+  "hoodwink_scurry": 4,
+  "hoodwink_sharpshooter": 3,
+  "hoodwink_sharpshooter_release": 3,
+  "huskar_berserkers_blood": 4,
+  "huskar_blood_magic": 1,
+  "huskar_burning_spear": 4,
+  "huskar_inner_fire": 4,
+  "huskar_life_break": 3,
+  "invoker_alacrity": 1,
+  "invoker_chaos_meteor": 1,
+  "invoker_cold_snap": 1,
+  "invoker_deafening_blast": 1,
+  "invoker_emp": 1,
+  "invoker_empty1": 0,
+  "invoker_empty2": 0,
+  "invoker_exort": 8,
+  "invoker_forge_spirit": 1,
+  "invoker_ghost_walk": 1,
+  "invoker_ice_wall": 1,
+  "invoker_invoke": 1,
+  "invoker_quas": 8,
+  "invoker_sun_strike": 1,
+  "invoker_tornado": 1,
+  "invoker_wex": 8,
+  "jakiro_double_trouble": 1,
+  "jakiro_dual_breath": 4,
+  "jakiro_ice_path": 4,
+  "jakiro_liquid_fire": 4,
+  "jakiro_liquid_ice": 4,
+  "jakiro_macropyre": 3,
+  "juggernaut_blade_dance": 4,
+  "juggernaut_blade_fury": 4,
+  "juggernaut_bladeform": 1,
+  "juggernaut_healing_ward": 4,
+  "juggernaut_omni_slash": 3,
+  "keeper_of_the_light_blinding_light": 4,
+  "keeper_of_the_light_bright_speed": 1,
+  "keeper_of_the_light_chakra_magic": 4,
+  "keeper_of_the_light_illuminate": 4,
+  "keeper_of_the_light_illuminate_end": 4,
+  "keeper_of_the_light_radiant_bind": 1,
+  "keeper_of_the_light_spirit_form": 3,
+  "keeper_of_the_light_will_o_wisp": 1,
+  "kez_echo_slash": 4,
+  "kez_falcon_rush": 4,
+  "kez_grappling_claw": 4,
+  "kez_kazurai_katana": 4,
+  "kez_raptor_dance": 3,
+  "kez_ravens_veil": 3,
+  "kez_shodo_sai": 4,
+  "kez_shodo_sai_parry_cancel": 1,
+  "kez_switch_weapons": 1,
+  "kez_talon_toss": 4,
+  "kunkka_admirals_rum": 1,
+  "kunkka_ghostship": 3,
+  "kunkka_return": 4,
+  "kunkka_tidal_wave": 1,
+  "kunkka_tidebringer": 4,
+  "kunkka_torrent": 4,
+  "kunkka_x_marks_the_spot": 4,
+  "largo_amphibian_rhapsody": 3,
+  "largo_catchy_lick": 4,
+  "largo_croak_of_genius": 4,
+  "largo_encore": 1,
+  "largo_frogstomp": 4,
+  "largo_song_double_time": 3,
+  "largo_song_fight_song": 3,
+  "largo_song_good_vibrations": 3,
+  "legion_commander_duel": 3,
+  "legion_commander_moment_of_courage": 4,
+  "legion_commander_outfight_them": 1,
+  "legion_commander_overwhelming_odds": 4,
+  "legion_commander_press_the_attack": 4,
+  "leshrac_defilement": 1,
+  "leshrac_diabolic_edict": 4,
+  "leshrac_greater_lightning_storm": 1,
+  "leshrac_lightning_storm": 4,
+  "leshrac_pulse_nova": 3,
+  "leshrac_split_earth": 4,
+  "lich_chain_frost": 3,
+  "lich_death_charge": 1,
+  "lich_frost_nova": 4,
+  "lich_frost_shield": 4,
+  "lich_ice_spire": 1,
+  "lich_sinister_gaze": 4,
+  "life_stealer_consume": 3,
+  "life_stealer_feast": 4,
+  "life_stealer_ghoul_frenzy": 1,
+  "life_stealer_infest": 3,
+  "life_stealer_open_wounds": 4,
+  "life_stealer_rage": 4,
+  "lina_dragon_slave": 4,
+  "lina_fiery_soul": 4,
+  "lina_flame_cloak": 1,
+  "lina_laguna_blade": 3,
+  "lina_light_strike_array": 4,
+  "lina_slow_burn": 1,
+  "lion_finger_of_death": 3,
+  "lion_impale": 4,
+  "lion_mana_drain": 4,
+  "lion_to_hell_and_back": 1,
+  "lion_voodoo": 4,
+  "lone_druid_entangle": 4,
+  "lone_druid_savage_roar": 4,
+  "lone_druid_spirit_bear": 1,
+  "lone_druid_spirit_link": 4,
+  "lone_druid_true_form": 3,
+  "luna_eclipse": 3,
+  "luna_lucent_beam": 4,
+  "luna_lunar_blessing": 1,
+  "luna_lunar_orbit": 4,
+  "luna_moon_glaive": 4,
+  "lycan_feral_impulse": 4,
+  "lycan_howl": 4,
+  "lycan_pack_hunter": 1,
+  "lycan_shapeshift": 3,
+  "lycan_summon_wolves": 4,
+  "lycan_wolf_bite": 3,
+  "magnataur_empower": 4,
+  "magnataur_horn_toss": 1,
+  "magnataur_reverse_polarity": 3,
+  "magnataur_shockwave": 4,
+  "magnataur_skewer": 4,
+  "magnataur_solid_core": 1,
+  "marci_bodyguard": 4,
+  "marci_companion_run": 4,
+  "marci_grapple": 4,
+  "marci_special_delivery": 1,
+  "marci_unleash": 3,
+  "mars_arena_of_blood": 3,
+  "mars_bulwark": 4,
+  "mars_dauntless": 1,
+  "mars_gods_rebuke": 4,
+  "mars_spear": 4,
+  "medusa_cold_blooded": 1,
+  "medusa_gorgon_grasp": 4,
+  "medusa_mana_shield": 1,
+  "medusa_mystic_snake": 4,
+  "medusa_split_shot": 4,
+  "medusa_stone_gaze": 3,
+  "meepo_divided_we_stand": 4,
+  "meepo_earthbind": 4,
+  "meepo_fling_release": 4,
+  "meepo_geomancy": 1,
+  "meepo_petrify": 1,
+  "meepo_poof": 4,
+  "meepo_ransack": 4,
+  "mirana_arrow": 4,
+  "mirana_celestial_quiver": 1,
+  "mirana_invis": 3,
+  "mirana_leap": 4,
+  "mirana_starfall": 4,
+  "monkey_king_boundless_strike": 4,
+  "monkey_king_jingu_mastery": 4,
+  "monkey_king_mischief": 1,
+  "monkey_king_primal_spring": 4,
+  "monkey_king_primal_spring_early": 4,
+  "monkey_king_transfiguration": 1,
+  "monkey_king_tree_dance": 4,
+  "monkey_king_untransform": 1,
+  "monkey_king_wukongs_command": 3,
+  "morphling_adaptive_strike_agi": 4,
+  "morphling_ebb_and_flow": 1,
+  "morphling_morph_agi": 4,
+  "morphling_morph_replicate": 3,
+  "morphling_morph_str": 4,
+  "morphling_replicate": 3,
+  "morphling_waveform": 4,
+  "muerta_dead_shot": 4,
+  "muerta_gunslinger": 4,
+  "muerta_pierce_the_veil": 3,
+  "muerta_spectral_slug": 1,
+  "muerta_supernatural": 1,
+  "muerta_the_calling": 4,
+  "naga_siren_eelskin": 1,
+  "naga_siren_ensnare": 4,
+  "naga_siren_mirror_image": 4,
+  "naga_siren_reel_in": 1,
+  "naga_siren_rip_tide": 4,
+  "naga_siren_song_of_the_siren": 3,
+  "naga_siren_song_of_the_siren_cancel": 1,
+  "necrolyte_death_pulse": 4,
+  "necrolyte_death_seeker": 1,
+  "necrolyte_ghost_shroud": 4,
+  "necrolyte_heartstopper_aura": 4,
+  "necrolyte_reapers_scythe": 3,
+  "necrolyte_sadist": 4,
+  "nevermore_dark_lord": 4,
+  "nevermore_frenzy": 4,
+  "nevermore_necromastery": 1,
+  "nevermore_requiem": 3,
+  "nevermore_shadowraze1": 4,
+  "nevermore_shadowraze2": 4,
+  "nevermore_shadowraze3": 4,
+  "night_stalker_crippling_fear": 4,
+  "night_stalker_darkness": 3,
+  "night_stalker_hunter_in_the_night": 0,
+  "night_stalker_midnight_feast": 4,
+  "night_stalker_void": 4,
+  "nyx_assassin_burrow": 1,
+  "nyx_assassin_impale": 4,
+  "nyx_assassin_jolt": 4,
+  "nyx_assassin_scarab_metabolism": 1,
+  "nyx_assassin_spiked_carapace": 4,
+  "nyx_assassin_unburrow": 1,
+  "nyx_assassin_vendetta": 3,
+  "obsidian_destroyer_arcane_orb": 4,
+  "obsidian_destroyer_astral_imprisonment": 4,
+  "obsidian_destroyer_equilibrium": 1,
+  "obsidian_destroyer_objurgation": 4,
+  "obsidian_destroyer_sanity_eclipse": 3,
+  "ogre_magi_bloodlust": 4,
+  "ogre_magi_dumb_luck": 1,
+  "ogre_magi_fireblast": 4,
+  "ogre_magi_ignite": 4,
+  "ogre_magi_multicast": 3,
+  "ogre_magi_smash": 1,
+  "ogre_magi_unrefined_fireblast": 1,
+  "omniknight_degen_aura": 4,
+  "omniknight_guardian_angel": 3,
+  "omniknight_hammer_of_purity": 4,
+  "omniknight_martyr": 4,
+  "omniknight_purification": 4,
+  "oracle_diviners_deck": 1,
+  "oracle_false_promise": 3,
+  "oracle_fates_edict": 4,
+  "oracle_fortunes_end": 4,
+  "oracle_prognosticate": 1,
+  "oracle_purifying_flames": 4,
+  "oracle_rain_of_destiny": 1,
+  "pangolier_fortune_favors_the_bold": 1,
+  "pangolier_gyroshell": 3,
+  "pangolier_gyroshell_stop": 3,
+  "pangolier_lucky_shot": 4,
+  "pangolier_rollup": 1,
+  "pangolier_rollup_stop": 4,
+  "pangolier_shield_crash": 4,
+  "pangolier_swashbuckle": 4,
+  "phantom_assassin_blur": 1,
+  "phantom_assassin_coup_de_grace": 3,
+  "phantom_assassin_fan_of_knives": 1,
+  "phantom_assassin_immaterial": 4,
+  "phantom_assassin_phantom_strike": 4,
+  "phantom_assassin_stifling_dagger": 4,
+  "phantom_lancer_doppelwalk": 4,
+  "phantom_lancer_illusory_armaments": 1,
+  "phantom_lancer_juxtapose": 3,
+  "phantom_lancer_phantom_edge": 4,
+  "phantom_lancer_spirit_lance": 4,
+  "phoenix_dying_light": 1,
+  "phoenix_fire_spirits": 4,
+  "phoenix_icarus_dive": 4,
+  "phoenix_icarus_dive_stop": 4,
+  "phoenix_launch_fire_spirit": 4,
+  "phoenix_sun_ray": 4,
+  "phoenix_sun_ray_stop": 4,
+  "phoenix_sun_ray_toggle_move": 1,
+  "phoenix_supernova": 3,
+  "primal_beast_colossal": 1,
+  "primal_beast_onslaught": 4,
+  "primal_beast_onslaught_release": 4,
+  "primal_beast_pulverize": 3,
+  "primal_beast_rock_throw": 1,
+  "primal_beast_trample": 4,
+  "primal_beast_uproar": 4,
+  "puck_dream_coil": 3,
+  "puck_ethereal_jaunt": 4,
+  "puck_illusory_orb": 4,
+  "puck_phase_shift": 4,
+  "puck_puckish": 1,
+  "puck_waning_rift": 4,
+  "pudge_dismember": 3,
+  "pudge_flesh_heap": 4,
+  "pudge_innate_graft_flesh": 1,
+  "pudge_meat_hook": 4,
+  "pudge_rot": 4,
+  "pugna_decrepify": 4,
+  "pugna_life_drain": 3,
+  "pugna_nether_blast": 4,
+  "pugna_nether_ward": 4,
+  "pugna_oblivion_savant": 1,
+  "queenofpain_blink": 4,
+  "queenofpain_scream_of_pain": 4,
+  "queenofpain_shadow_strike": 4,
+  "queenofpain_sonic_wave": 3,
+  "queenofpain_succubus": 1,
+  "rattletrap_armor_power": 1,
+  "rattletrap_battery_assault": 4,
+  "rattletrap_hookshot": 3,
+  "rattletrap_jetpack": 1,
+  "rattletrap_jetpack_toggle": 1,
+  "rattletrap_overclocking": 1,
+  "rattletrap_power_cogs": 4,
+  "rattletrap_rocket_flare": 4,
+  "razor_eye_of_the_storm": 3,
+  "razor_plasma_field": 4,
+  "razor_static_link": 4,
+  "razor_storm_surge": 4,
+  "razor_unstable_current": 1,
+  "riki_backstab": 3,
+  "riki_blink_strike": 4,
+  "riki_innate_backstab": 1,
+  "riki_smoke_screen": 4,
+  "riki_tricks_of_the_trade": 4,
+  "ringmaster_dark_carnival_souvenirs": 1,
+  "ringmaster_empty_souvenir": 1,
+  "ringmaster_funhouse_mirror": 1,
+  "ringmaster_impalement": 4,
+  "ringmaster_spotlight": 1,
+  "ringmaster_strongman_tonic": 1,
+  "ringmaster_summon_unicycle": 1,
+  "ringmaster_tame_the_beasts": 4,
+  "ringmaster_tame_the_beasts_crack": 4,
+  "ringmaster_the_box": 4,
+  "ringmaster_wheel": 3,
+  "ringmaster_whoopee_cushion": 1,
+  "rubick_arcane_supremacy": 4,
+  "rubick_curiosity": 1,
+  "rubick_empty1": 0,
+  "rubick_empty2": 0,
+  "rubick_fade_bolt": 4,
+  "rubick_hidden1": 0,
+  "rubick_hidden2": 0,
+  "rubick_hidden3": 0,
+  "rubick_hidden4": 0,
+  "rubick_hidden5": 0,
+  "rubick_spell_steal": 3,
+  "rubick_telekinesis": 4,
+  "rubick_telekinesis_land": 1,
+  "rubick_telekinesis_land_self": 1,
+  "sandking_burrowstrike": 4,
+  "sandking_caustic_finale": 1,
+  "sandking_epicenter": 3,
+  "sandking_sand_storm": 4,
+  "sandking_scorpion_strike": 4,
+  "shadow_demon_demonic_cleanse": 1,
+  "shadow_demon_demonic_purge": 3,
+  "shadow_demon_disruption": 4,
+  "shadow_demon_disseminate": 4,
+  "shadow_demon_menace": 1,
+  "shadow_demon_shadow_poison": 4,
+  "shadow_demon_shadow_poison_release": 1,
+  "shadow_shaman_ether_shock": 4,
+  "shadow_shaman_fowl_play": 1,
+  "shadow_shaman_mass_serpent_ward": 3,
+  "shadow_shaman_shackles": 4,
+  "shadow_shaman_urnaconda": 1,
+  "shadow_shaman_voodoo": 4,
+  "shredder_chakram": 3,
+  "shredder_exposure_therapy": 1,
+  "shredder_flamethrower": 1,
+  "shredder_reactive_armor": 4,
+  "shredder_return_chakram": 3,
+  "shredder_timber_chain": 4,
+  "shredder_whirling_death": 4,
+  "silencer_brain_drain": 1,
+  "silencer_curse_of_the_silent": 4,
+  "silencer_glaives_of_wisdom": 4,
+  "silencer_global_silence": 3,
+  "silencer_last_word": 4,
+  "skeleton_king_bone_guard": 4,
+  "skeleton_king_hellfire_blast": 4,
+  "skeleton_king_mortal_strike": 4,
+  "skeleton_king_reincarnation": 3,
+  "skeleton_king_vampiric_spirit": 1,
+  "skywrath_mage_ancient_seal": 4,
+  "skywrath_mage_arcane_bolt": 4,
+  "skywrath_mage_concussive_shot": 4,
+  "skywrath_mage_mystic_flare": 3,
+  "skywrath_mage_shield_of_the_scion": 1,
+  "slardar_amplify_damage": 3,
+  "slardar_bash": 4,
+  "slardar_seaborn_sentinel": 1,
+  "slardar_slithereen_crush": 4,
+  "slardar_sprint": 4,
+  "slark_dark_pact": 4,
+  "slark_depth_shroud": 1,
+  "slark_essence_shift": 1,
+  "slark_pounce": 4,
+  "slark_saltwater_shiv": 4,
+  "slark_shadow_dance": 3,
+  "snapfire_boomstick": 1,
+  "snapfire_firesnap_cookie": 4,
+  "snapfire_gobble_up": 1,
+  "snapfire_lil_shredder": 4,
+  "snapfire_mortimer_kisses": 3,
+  "snapfire_scatterblast": 4,
+  "snapfire_spit_creep": 1,
+  "sniper_assassinate": 3,
+  "sniper_concussive_grenade": 1,
+  "sniper_headshot": 4,
+  "sniper_keen_scope": 1,
+  "sniper_shrapnel": 4,
+  "sniper_take_aim": 4,
+  "spectre_desolate": 1,
+  "spectre_dispersion": 4,
+  "spectre_haunt": 3,
+  "spectre_reality": 1,
+  "spectre_shadow_step": 4,
+  "spectre_spectral_dagger": 4,
+  "spirit_breaker_bull_rush": 1,
+  "spirit_breaker_bulldoze": 4,
+  "spirit_breaker_charge_of_darkness": 4,
+  "spirit_breaker_greater_bash": 4,
+  "spirit_breaker_nether_strike": 3,
+  "spirit_breaker_planar_pocket": 1,
+  "storm_spirit_ball_lightning": 3,
+  "storm_spirit_electric_vortex": 4,
+  "storm_spirit_galvanized": 1,
+  "storm_spirit_overload": 4,
+  "storm_spirit_static_remnant": 4,
+  "sven_gods_strength": 3,
+  "sven_great_cleave": 4,
+  "sven_storm_bolt": 4,
+  "sven_warcry": 4,
+  "sven_wrath_of_god": 1,
+  "techies_focused_detonate": 1,
+  "techies_land_mines": 3,
+  "techies_minefield_sign": 1,
+  "techies_mutually_assured_destruction": 1,
+  "techies_reactive_tazer": 4,
+  "techies_reactive_tazer_stop": 4,
+  "techies_sticky_bomb": 4,
+  "techies_suicide": 4,
+  "templar_assassin_inner_peace": 1,
+  "templar_assassin_meld": 4,
+  "templar_assassin_psi_blades": 4,
+  "templar_assassin_psionic_trap": 3,
+  "templar_assassin_refraction": 4,
+  "templar_assassin_trap": 3,
+  "templar_assassin_trap_teleport": 3,
+  "terrorblade_conjure_image": 4,
+  "terrorblade_dark_unity": 1,
+  "terrorblade_demon_zeal": 1,
+  "terrorblade_metamorphosis": 4,
+  "terrorblade_reflection": 4,
+  "terrorblade_sunder": 3,
+  "terrorblade_terror_wave": 1,
+  "tidehunter_anchor_smash": 4,
+  "tidehunter_dead_in_the_water": 1,
+  "tidehunter_gush": 4,
+  "tidehunter_kraken_shell": 4,
+  "tidehunter_leviathans_catch": 1,
+  "tidehunter_ravage": 3,
+  "tinker_deploy_turrets": 4,
+  "tinker_eureka": 1,
+  "tinker_keen_teleport": 3,
+  "tinker_laser": 4,
+  "tinker_march_of_the_machines": 4,
+  "tinker_rearm": 3,
+  "tinker_warp_grenade": 1,
+  "tiny_avalanche": 4,
+  "tiny_grow": 3,
+  "tiny_insurmountable": 1,
+  "tiny_toss": 4,
+  "tiny_toss_tree": 4,
+  "tiny_tree_channel": 1,
+  "tiny_tree_grab": 4,
+  "treant_eyes_in_the_forest": 1,
+  "treant_leech_seed": 4,
+  "treant_living_armor": 4,
+  "treant_natures_grasp": 4,
+  "treant_natures_guise": 1,
+  "treant_overgrowth": 3,
+  "troll_warlord_battle_trance": 3,
+  "troll_warlord_berserkers_rage": 4,
+  "troll_warlord_fervor": 4,
+  "troll_warlord_switch_stance": 1,
+  "troll_warlord_whirling_axes_melee": 4,
+  "troll_warlord_whirling_axes_ranged": 4,
+  "tusk_bitter_chill": 1,
+  "tusk_drinking_buddies": 1,
+  "tusk_ice_shards": 4,
+  "tusk_launch_snowball": 4,
+  "tusk_snowball": 4,
+  "tusk_tag_team": 4,
+  "tusk_walrus_kick": 1,
+  "tusk_walrus_punch": 3,
+  "undying_bite": 1,
+  "undying_ceaseless_dirge": 1,
+  "undying_decay": 4,
+  "undying_flesh_golem": 3,
+  "undying_soul_rip": 4,
+  "undying_tombstone": 4,
+  "ursa_earthshock": 4,
+  "ursa_enrage": 3,
+  "ursa_fury_swipes": 4,
+  "ursa_maul": 1,
+  "ursa_overpower": 4,
+  "vengefulspirit_command_aura": 4,
+  "vengefulspirit_magic_missile": 4,
+  "vengefulspirit_nether_swap": 3,
+  "vengefulspirit_retribution": 1,
+  "vengefulspirit_wave_of_terror": 4,
+  "venomancer_noxious_plague": 3,
+  "venomancer_plague_ward": 4,
+  "venomancer_poison_sting": 1,
+  "venomancer_snakebite": 4,
+  "venomancer_venomous_gale": 4,
+  "viper_corrosive_skin": 4,
+  "viper_nethertoxin": 4,
+  "viper_nose_dive": 1,
+  "viper_poison_attack": 4,
+  "viper_predator": 1,
+  "viper_viper_strike": 3,
+  "visage_grave_chill": 4,
+  "visage_gravekeepers_cloak": 4,
+  "visage_silent_as_the_grave": 1,
+  "visage_soul_assumption": 4,
+  "visage_stone_form_self_cast": 3,
+  "visage_summon_familiars": 3,
+  "visage_summon_familiars_stone_form": 3,
+  "void_spirit_aether_remnant": 4,
+  "void_spirit_astral_step": 3,
+  "void_spirit_dissimilate": 4,
+  "void_spirit_intrinsic_edge": 1,
+  "void_spirit_resonant_pulse": 4,
+  "warlock_eldritch_summoning": 1,
+  "warlock_fatal_bonds": 4,
+  "warlock_rain_of_chaos": 3,
+  "warlock_shadow_word": 4,
+  "warlock_upheaval": 4,
+  "weaver_geminate_attack": 4,
+  "weaver_shukuchi": 4,
+  "weaver_the_swarm": 4,
+  "weaver_threads_of_fate": 1,
+  "weaver_time_lapse": 3,
+  "weaver_time_lapse_ally": 3,
+  "windrunner_focusfire": 3,
+  "windrunner_focusfire_cancel": 1,
+  "windrunner_gale_force": 1,
+  "windrunner_powershot": 4,
+  "windrunner_shackleshot": 4,
+  "windrunner_tailwind": 1,
+  "windrunner_windrun": 4,
+  "winter_wyvern_arctic_burn": 4,
+  "winter_wyvern_cold_embrace": 4,
+  "winter_wyvern_eldwurms_edda": 1,
+  "winter_wyvern_splinter_blast": 4,
+  "winter_wyvern_winters_curse": 3,
+  "wisp_equilibrium": 1,
+  "wisp_overcharge": 4,
+  "wisp_relocate": 3,
+  "wisp_spirits": 4,
+  "wisp_spirits_in": 4,
+  "wisp_spirits_out": 4,
+  "wisp_tether": 4,
+  "wisp_tether_break": 4,
+  "witch_doctor_death_ward": 3,
+  "witch_doctor_gris_gris": 1,
+  "witch_doctor_maledict": 4,
+  "witch_doctor_paralyzing_cask": 4,
+  "witch_doctor_voodoo_restoration": 4,
+  "witch_doctor_voodoo_switcheroo": 1,
+  "zuus_arc_lightning": 4,
+  "zuus_cloud": 1,
+  "zuus_heavenly_jump": 4,
+  "zuus_lightning_bolt": 4,
+  "zuus_lightning_hands": 1,
+  "zuus_static_field": 1,
+  "zuus_thundergods_wrath": 3
+ }
+}

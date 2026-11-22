@@ -1,0 +1,15 @@
+{
+  "name": "sven_item_choice",
+  "scenario": {
+    "units": [
+      { "id": "a", "team": 0, "unit": "sven", "level": 20, "talents": "first" },
+      { "id": "b", "team": 1, "unit": "axe", "level": 20, "items": ["blade_mail", "heart"] }
+    ],
+    "rules": { "maxTime": 120 }
+  },
+  "vary": {
+    "units.0.items": [["desolator"], ["greater_crit"], ["skadi"], ["monkey_king_bar"], ["satanic"], ["assault"]],
+    "units.1.unit": ["axe", "sniper", "medusa"]
+  },
+  "runs": 500, "seed": 1, "sort": "winrate", "top": 20
+}

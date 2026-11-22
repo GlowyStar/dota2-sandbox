@@ -1,0 +1,10 @@
+{
+  "name": "dota2-sandbox-simlab",
+  "version": "1.0.0",
+  "description": "Headless combat simulator built from installed Dota 2 game data (unofficial analysis tool, numbers only)",
+  "type": "module",
+  "private": true,
+  "bin": { "simlab": "src/cli.mjs" },
+  "scripts": { "test": "node tests/run.mjs", "build-data": "node src/cli.mjs build-data", "mcp": "node src/cli.mjs mcp" },
+  "engines": { "node": ">=20" }
+}

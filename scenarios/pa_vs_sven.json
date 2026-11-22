@@ -1,0 +1,7 @@
+{
+  "units": [
+    { "id": "pa", "team": 0, "unit": "phantom_assassin", "level": 20, "items": ["desolator", "black_king_bar", { "name": "power_treads", "attr": "agi" }], "talents": "first" },
+    { "id": "sven", "team": 1, "unit": "sven", "level": 20, "items": ["echo_sabre", "greater_crit", { "name": "power_treads", "attr": "str" }], "talents": "first" }
+  ],
+  "rules": { "maxTime": 120 }
+}

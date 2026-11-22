@@ -1,0 +1,9 @@
+{ "id": "h11_brew_liquid_courage",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_brewmaster", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": {}, "face": [150, 0] },
+    { "tag": "e", "name": "npc_dota_hero_sven", "team": 1, "x": 150, "y": 0, "level": 30, "abilities": {}, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "e", "type": "attack", "target": "c" },
+    { "t": 9.0, "unit": "e", "type": "stop" },
+    { "t": 20.0, "unit": "e", "type": "attack", "target": "c" } ],
+  "duration": 32.0 }

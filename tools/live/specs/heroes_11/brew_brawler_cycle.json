@@ -1,0 +1,15 @@
+{ "id": "h11_brew_brawler_cycle",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_brewmaster", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "brewmaster_drunken_brawler": 4, "brewmaster_thunder_clap": 4 },
+      "talents": ["special_bonus_unique_brewmaster_drunken_brawler_stance_bonus", "special_bonus_unique_brewmaster_brewed_up_duration"], "face": [200, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 200, "y": 0 } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "brewmaster_drunken_brawler" },
+    { "t": 1.5, "unit": "c", "type": "cast", "ability": "brewmaster_drunken_brawler" },
+    { "t": 2.5, "unit": "c", "type": "cast", "ability": "brewmaster_drunken_brawler" },
+    { "t": 4.0, "unit": "c", "type": "cast", "ability": "brewmaster_thunder_clap" },
+    { "t": 6.0, "unit": "c", "type": "cast", "ability": "brewmaster_drunken_brawler" },
+    { "t": 7.0, "unit": "c", "type": "cast", "ability": "brewmaster_drunken_brawler" },
+    { "t": 16.5, "unit": "c", "type": "cast", "ability": "brewmaster_thunder_clap" },
+    { "t": 29.0, "unit": "c", "type": "cast", "ability": "brewmaster_thunder_clap" } ],
+  "duration": 38.0 }

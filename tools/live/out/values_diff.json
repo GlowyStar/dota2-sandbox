@@ -1,0 +1,1351 @@
+{
+ "summary": {
+  "compared": {
+   "values": 95687,
+   "standardKeys": 46488,
+   "stats": 3810
+  },
+  "valueDiffs": 166,
+  "distinct": 15,
+  "byVariant": {
+   "C": 37,
+   "A": 30,
+   "B": 30,
+   "D": 39,
+   "E": 30
+  },
+  "stdDiffs": 345,
+  "stdDistinct": 44,
+  "statDiffs": 53,
+  "structural": 48
+ },
+ "groups": [
+  {
+   "ability": "primal_beast_trample",
+   "key": "effect_radius",
+   "hero": "primal_beast",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 207 sim 200",
+    "A/L2: live 207 sim 200",
+    "A/L3: live 207 sim 200"
+   ]
+  },
+  {
+   "ability": "primal_beast_uproar",
+   "key": "radius",
+   "hero": "primal_beast",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 931.5 sim 900",
+    "A/L2: live 931.5 sim 900",
+    "A/L3: live 931.5 sim 900"
+   ]
+  },
+  {
+   "ability": "troll_warlord_whirling_axes_melee",
+   "key": "AbilityManacost",
+   "hero": "troll_warlord",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 0 sim 50",
+    "A/L2: live 0 sim 50",
+    "A/L3: live 0 sim 50"
+   ]
+  },
+  {
+   "ability": "troll_warlord_whirling_axes_ranged",
+   "key": "AbilityManacost",
+   "hero": "troll_warlord",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 0 sim 50",
+    "A/L2: live 0 sim 50",
+    "A/L3: live 0 sim 50"
+   ]
+  },
+  {
+   "ability": "ogre_magi_multicast",
+   "key": "multicast_2_times",
+   "hero": "ogre_magi",
+   "variants": "ABCDE",
+   "n": 15,
+   "examples": [
+    "A/L1: live 76.625 sim 75",
+    "A/L2: live 76.625 sim 75",
+    "A/L3: live 76.625 sim 75"
+   ]
+  },
+  {
+   "ability": "primal_beast_pulverize",
+   "key": "splash_radius",
+   "hero": "primal_beast",
+   "variants": "ABCDE",
+   "n": 15,
+   "examples": [
+    "A/L1: live 595.125 sim 575",
+    "A/L2: live 595.125 sim 575",
+    "A/L3: live 595.125 sim 575"
+   ]
+  },
+  {
+   "ability": "dragon_knight_elder_dragon_form",
+   "key": "ranged_splash_radius",
+   "hero": "dragon_knight",
+   "variants": "ABCDE",
+   "n": 11,
+   "examples": [
+    "A/L2: live 375 sim 275",
+    "A/L3: live 375 sim 275",
+    "B/L2: live 375 sim 275"
+   ]
+  },
+  {
+   "ability": "ogre_magi_multicast",
+   "key": "multicast_3_times",
+   "hero": "ogre_magi",
+   "variants": "ABCDE",
+   "n": 11,
+   "examples": [
+    "A/L2: live 31.625 sim 30",
+    "A/L3: live 31.625 sim 30",
+    "B/L2: live 39.75 sim 30"
+   ]
+  },
+  {
+   "ability": "ogre_magi_multicast",
+   "key": "multicast_4_times",
+   "hero": "ogre_magi",
+   "variants": "ABCDE",
+   "n": 7,
+   "examples": [
+    "A/L3: live 16.625 sim 15",
+    "B/L3: live 24.75 sim 15",
+    "C/L1: live 21.3125 sim 10"
+   ]
+  },
+  {
+   "ability": "dragon_knight_fireball",
+   "key": "radius",
+   "hero": "dragon_knight",
+   "variants": "ABCDE",
+   "n": 5,
+   "examples": [
+    "A/L1: live 375 sim 275",
+    "B/L1: live 375 sim 275",
+    "C/L1: live 425 sim 275"
+   ]
+  },
+  {
+   "ability": "primal_beast_rock_throw",
+   "key": "fragment_impact_radius",
+   "hero": "primal_beast",
+   "variants": "ABCDE",
+   "n": 5,
+   "examples": [
+    "A/L1: live 191.475 sim 185",
+    "B/L1: live 216.45 sim 185",
+    "C/L1: live 216.45 sim 185"
+   ]
+  },
+  {
+   "ability": "primal_beast_rock_throw",
+   "key": "impact_radius",
+   "hero": "primal_beast",
+   "variants": "ABCDE",
+   "n": 5,
+   "examples": [
+    "A/L1: live 232.875 sim 225",
+    "B/L1: live 263.25 sim 225",
+    "C/L1: live 263.25 sim 225"
+   ]
+  },
+  {
+   "ability": "clinkz_searing_arrows",
+   "key": "AbilityCastRange",
+   "hero": "clinkz",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 600 sim 650",
+    "C/L2: live 600 sim 650",
+    "C/L3: live 600 sim 650"
+   ]
+  },
+  {
+   "ability": "primal_beast_uproar",
+   "key": "projectile_distance",
+   "hero": "primal_beast",
+   "variants": "D",
+   "n": 4,
+   "examples": [
+    "D/L1: live 1666 sim 1400",
+    "D/L2: live 1666 sim 1400",
+    "D/L3: live 1666 sim 1400"
+   ]
+  },
+  {
+   "ability": "primal_beast_uproar",
+   "key": "projectile_width",
+   "hero": "primal_beast",
+   "variants": "D",
+   "n": 4,
+   "examples": [
+    "D/L1: live 89.25 sim 75",
+    "D/L2: live 89.25 sim 75",
+    "D/L3: live 89.25 sim 75"
+   ]
+  }
+ ],
+ "std": [
+  {
+   "ability": "abaddon_aphotic_shield",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0 sim 12",
+    "C/L2: live 0 sim 10",
+    "C/L3: live 0 sim 8"
+   ]
+  },
+  {
+   "ability": "bloodseeker_rupture",
+   "key": "AbilityCooldown",
+   "variants": "D",
+   "n": 3,
+   "examples": [
+    "D/L1: live 0.25 sim 65",
+    "D/L2: live 0.25 sim 60",
+    "D/L3: live 0.25 sim 55"
+   ]
+  },
+  {
+   "ability": "bounty_hunter_wind_walk_ally",
+   "key": "AbilityCooldown",
+   "variants": "ABCDE",
+   "n": 5,
+   "examples": [
+    "A/L1: live 0 sim 15",
+    "B/L1: live 0 sim 15",
+    "C/L1: live 0 sim 15"
+   ]
+  },
+  {
+   "ability": "brewmaster_liquid_courage",
+   "key": "AbilityCastPoint",
+   "variants": "E",
+   "n": 1,
+   "examples": [
+    "E/L1: live 0 sim 0.3"
+   ]
+  },
+  {
+   "ability": "centaur_hoof_stomp",
+   "key": "AbilityManaCost",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 0 sim 100",
+    "A/L2: live 0 sim 110",
+    "A/L3: live 0 sim 120"
+   ]
+  },
+  {
+   "ability": "dark_seer_ion_shell",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0 sim 9",
+    "C/L2: live 0 sim 9",
+    "C/L3: live 0 sim 9"
+   ]
+  },
+  {
+   "ability": "disruptor_glimpse",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0 sim 24",
+    "C/L2: live 0 sim 22",
+    "C/L3: live 0 sim 20"
+   ]
+  },
+  {
+   "ability": "drow_ranger_multishot",
+   "key": "AbilityChannelTime",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 0 sim 1.75",
+    "A/L2: live 0 sim 1.75",
+    "A/L3: live 0 sim 1.75"
+   ]
+  },
+  {
+   "ability": "drow_ranger_frost_arrows",
+   "key": "AbilityManaCost",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 7 sim 7.380000000000001",
+    "C/L2: live 8 sim 8.200000000000001",
+    "C/L3: live 9 sim 9.020000000000001"
+   ]
+  },
+  {
+   "ability": "earthshaker_enchant_totem",
+   "key": "AbilityCastPoint",
+   "variants": "D",
+   "n": 4,
+   "examples": [
+    "D/L1: live 0 sim 0.5",
+    "D/L2: live 0 sim 0.5",
+    "D/L3: live 0 sim 0.5"
+   ]
+  },
+  {
+   "ability": "hoodwink_acorn_shot",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0 sim 19",
+    "C/L2: live 0 sim 16",
+    "C/L3: live 0 sim 13"
+   ]
+  },
+  {
+   "ability": "huskar_berserkers_blood",
+   "key": "AbilityCooldown",
+   "variants": "E",
+   "n": 4,
+   "examples": [
+    "E/L1: live 20 sim 0",
+    "E/L2: live 20 sim 0",
+    "E/L3: live 20 sim 0"
+   ]
+  },
+  {
+   "ability": "largo_catchy_lick",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0 sim 15",
+    "C/L2: live 0 sim 12",
+    "C/L3: live 0 sim 9"
+   ]
+  },
+  {
+   "ability": "lich_sinister_gaze",
+   "key": "AbilityChannelTime",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 0 sim 1.1",
+    "A/L2: live 0 sim 1.4",
+    "A/L3: live 0 sim 1.7"
+   ]
+  },
+  {
+   "ability": "lich_frost_shield",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0.25 sim 30",
+    "C/L2: live 0.25 sim 25",
+    "C/L3: live 0.25 sim 20"
+   ]
+  },
+  {
+   "ability": "marci_unleash",
+   "key": "AbilityCooldown",
+   "variants": "D",
+   "n": 3,
+   "examples": [
+    "D/L1: live 70 sim 80",
+    "D/L2: live 60 sim 70",
+    "D/L3: live 50 sim 60"
+   ]
+  },
+  {
+   "ability": "meepo_poof",
+   "key": "AbilityCastPoint",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0.75 sim 1.5",
+    "C/L2: live 0.75 sim 1.5",
+    "C/L3: live 0.75 sim 1.5"
+   ]
+  },
+  {
+   "ability": "muerta_dead_shot",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0 sim 16",
+    "C/L2: live 0 sim 14",
+    "C/L3: live 0 sim 12"
+   ]
+  },
+  {
+   "ability": "naga_siren_reel_in",
+   "key": "AbilityChannelTime",
+   "variants": "ABCDE",
+   "n": 5,
+   "examples": [
+    "A/L1: live 0 sim 5",
+    "B/L1: live 0 sim 5",
+    "C/L1: live 0 sim 5"
+   ]
+  },
+  {
+   "ability": "obsidian_destroyer_arcane_orb",
+   "key": "AbilityManaCost",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 87 sim 0",
+    "A/L2: live 87 sim 0",
+    "A/L3: live 87 sim 0"
+   ]
+  },
+  {
+   "ability": "ogre_magi_unrefined_fireblast",
+   "key": "AbilityManaCost",
+   "variants": "ABCDE",
+   "n": 5,
+   "examples": [
+    "A/L1: live 96 sim 400",
+    "B/L1: live 369 sim 400",
+    "C/L1: live 422 sim 400"
+   ]
+  },
+  {
+   "ability": "oracle_fortunes_end",
+   "key": "AbilityChannelTime",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 2.5 sim 0",
+    "A/L2: live 2.5 sim 0",
+    "A/L3: live 2.5 sim 0"
+   ]
+  },
+  {
+   "ability": "primal_beast_pulverize",
+   "key": "AbilityChannelTime",
+   "variants": "ABCDE",
+   "n": 15,
+   "examples": [
+    "A/L1: live 2.3 sim 0",
+    "A/L2: live 2.3 sim 0",
+    "A/L3: live 2.3 sim 0"
+   ]
+  },
+  {
+   "ability": "pugna_life_drain",
+   "key": "AbilityChannelTime",
+   "variants": "ABCDE",
+   "n": 15,
+   "examples": [
+    "A/L1: live 10 sim 0",
+    "A/L2: live 10 sim 0",
+    "A/L3: live 10 sim 0"
+   ]
+  },
+  {
+   "ability": "rattletrap_rocket_flare",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0.25 sim 20",
+    "C/L2: live 0.25 sim 18",
+    "C/L3: live 0.25 sim 16"
+   ]
+  },
+  {
+   "ability": "shadow_demon_demonic_purge",
+   "key": "AbilityCooldown",
+   "variants": "D",
+   "n": 3,
+   "examples": [
+    "D/L1: live 0 sim 70",
+    "D/L2: live 0 sim 65",
+    "D/L3: live 0 sim 60"
+   ]
+  },
+  {
+   "ability": "shadow_shaman_shackles",
+   "key": "AbilityChannelTime",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 0 sim 2.4",
+    "A/L2: live 0 sim 3",
+    "A/L3: live 0 sim 3.6"
+   ]
+  },
+  {
+   "ability": "slark_pounce",
+   "key": "AbilityCooldown",
+   "variants": "D",
+   "n": 4,
+   "examples": [
+    "D/L1: live 0 sim 24",
+    "D/L2: live 0 sim 20",
+    "D/L3: live 0 sim 16"
+   ]
+  },
+  {
+   "ability": "sniper_assassinate",
+   "key": "AbilityCastPoint",
+   "variants": "D",
+   "n": 3,
+   "examples": [
+    "D/L1: live 0.5 sim 2",
+    "D/L2: live 0.5 sim 2",
+    "D/L3: live 0.5 sim 2"
+   ]
+  },
+  {
+   "ability": "spectre_dispersion",
+   "key": "AbilityCooldown",
+   "variants": "E",
+   "n": 4,
+   "examples": [
+    "E/L1: live 25 sim 0",
+    "E/L2: live 25 sim 0",
+    "E/L3: live 25 sim 0"
+   ]
+  },
+  {
+   "ability": "spectre_dispersion",
+   "key": "AbilityManaCost",
+   "variants": "E",
+   "n": 4,
+   "examples": [
+    "E/L1: live 50 sim 0",
+    "E/L2: live 50 sim 0",
+    "E/L3: live 50 sim 0"
+   ]
+  },
+  {
+   "ability": "storm_spirit_ball_lightning",
+   "key": "AbilityManaCost",
+   "variants": "ABCDE",
+   "n": 15,
+   "examples": [
+    "A/L1: live 52 sim 30",
+    "A/L2: live 52 sim 30",
+    "A/L3: live 52 sim 30"
+   ]
+  },
+  {
+   "ability": "storm_spirit_overload",
+   "key": "AbilityCooldown",
+   "variants": "E",
+   "n": 4,
+   "examples": [
+    "E/L1: live 30 sim 0",
+    "E/L2: live 30 sim 0",
+    "E/L3: live 30 sim 0"
+   ]
+  },
+  {
+   "ability": "storm_spirit_overload",
+   "key": "AbilityManaCost",
+   "variants": "E",
+   "n": 4,
+   "examples": [
+    "E/L1: live 100 sim 0",
+    "E/L2: live 100 sim 0",
+    "E/L3: live 100 sim 0"
+   ]
+  },
+  {
+   "ability": "sven_storm_bolt",
+   "key": "AbilityManaCost",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 82 sim 82.5",
+    "C/L2: live 82 sim 82.5",
+    "C/L3: live 82 sim 82.5"
+   ]
+  },
+  {
+   "ability": "tinker_keen_teleport",
+   "key": "AbilityChannelTime",
+   "variants": "ABCDE",
+   "n": 15,
+   "examples": [
+    "A/L1: live 0 sim 3",
+    "A/L2: live 0 sim 3",
+    "A/L3: live 0 sim 3"
+   ]
+  },
+  {
+   "ability": "tiny_toss",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0 sim 20",
+    "C/L2: live 0 sim 17",
+    "C/L3: live 0 sim 14"
+   ]
+  },
+  {
+   "ability": "troll_warlord_whirling_axes_ranged",
+   "key": "AbilityManaCost",
+   "variants": "ABCDE",
+   "n": 20,
+   "examples": [
+    "A/L1: live 50 sim 0",
+    "A/L2: live 50 sim 0",
+    "A/L3: live 50 sim 0"
+   ]
+  },
+  {
+   "ability": "void_spirit_resonant_pulse",
+   "key": "AbilityCooldown",
+   "variants": "D",
+   "n": 4,
+   "examples": [
+    "D/L1: live 0.25 sim 18",
+    "D/L2: live 0.25 sim 18",
+    "D/L3: live 0.25 sim 18"
+   ]
+  },
+  {
+   "ability": "weaver_time_lapse_ally",
+   "key": "AbilityCooldown",
+   "variants": "ABCDE",
+   "n": 15,
+   "examples": [
+    "A/L1: live 70 sim 0",
+    "A/L2: live 55 sim 0",
+    "A/L3: live 40 sim 0"
+   ]
+  },
+  {
+   "ability": "weaver_time_lapse_ally",
+   "key": "AbilityManaCost",
+   "variants": "ABCDE",
+   "n": 10,
+   "examples": [
+    "A/L1: live 150 sim 0",
+    "A/L2: live 75 sim 0",
+    "B/L1: live 150 sim 0"
+   ]
+  },
+  {
+   "ability": "winter_wyvern_arctic_burn",
+   "key": "AbilityCooldown",
+   "variants": "D",
+   "n": 4,
+   "examples": [
+    "D/L1: live 0 sim 29",
+    "D/L2: live 0 sim 26",
+    "D/L3: live 0 sim 23"
+   ]
+  },
+  {
+   "ability": "winter_wyvern_cold_embrace",
+   "key": "AbilityCooldown",
+   "variants": "E",
+   "n": 4,
+   "examples": [
+    "E/L1: live 20 sim 24",
+    "E/L2: live 17 sim 21",
+    "E/L3: live 14 sim 18"
+   ]
+  },
+  {
+   "ability": "zuus_heavenly_jump",
+   "key": "AbilityCooldown",
+   "variants": "C",
+   "n": 4,
+   "examples": [
+    "C/L1: live 0 sim 26",
+    "C/L2: live 0 sim 22",
+    "C/L3: live 0 sim 18"
+   ]
+  }
+ ],
+ "statDiffs": [
+  {
+   "hero": "npc_dota_hero_axe",
+   "variant": "A",
+   "key": "str",
+   "live": 25,
+   "sim": 26.5
+  },
+  {
+   "hero": "npc_dota_hero_axe",
+   "variant": "A",
+   "key": "hp",
+   "live": 700,
+   "sim": 720
+  },
+  {
+   "hero": "npc_dota_hero_axe",
+   "variant": "A",
+   "key": "hpRegen",
+   "live": 4.5,
+   "sim": 4.65
+  },
+  {
+   "hero": "npc_dota_hero_axe",
+   "variant": "B",
+   "key": "str",
+   "live": 117.3,
+   "sim": 123.592
+  },
+  {
+   "hero": "npc_dota_hero_axe",
+   "variant": "B",
+   "key": "hp",
+   "live": 2540,
+   "sim": 2660
+  },
+  {
+   "hero": "npc_dota_hero_axe",
+   "variant": "B",
+   "key": "hpRegen",
+   "live": 13.73,
+   "sim": 14.359
+  },
+  {
+   "hero": "npc_dota_hero_axe",
+   "variant": "B",
+   "key": "dmgMin",
+   "live": 148,
+   "sim": 154
+  },
+  {
+   "hero": "npc_dota_hero_axe",
+   "variant": "B",
+   "key": "dmgMax",
+   "live": 152,
+   "sim": 158
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "A",
+   "key": "agi",
+   "live": 24,
+   "sim": 26.64
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "A",
+   "key": "armor",
+   "live": 4,
+   "sim": 4.44
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "A",
+   "key": "dmgMin",
+   "live": 51,
+   "sim": 53
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "A",
+   "key": "dmgMax",
+   "live": 58,
+   "sim": 60
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "A",
+   "key": "as",
+   "live": 124,
+   "sim": 126.64
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "A",
+   "key": "spa",
+   "live": 1.37097,
+   "sim": 1.342
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "B",
+   "key": "agi",
+   "live": 119.2,
+   "sim": 166.88
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "B",
+   "key": "armor",
+   "live": 19.8667,
+   "sim": 27.813
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "B",
+   "key": "dmgMin",
+   "live": 146,
+   "sim": 193
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "B",
+   "key": "dmgMax",
+   "live": 153,
+   "sim": 200
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "B",
+   "key": "as",
+   "live": 219,
+   "sim": 266.88
+  },
+  {
+   "hero": "npc_dota_hero_drow_ranger",
+   "variant": "B",
+   "key": "spa",
+   "live": 0.775547,
+   "sim": 0.637
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "A",
+   "key": "agi",
+   "live": 32,
+   "sim": 40.32
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "A",
+   "key": "armor",
+   "live": 5.33333,
+   "sim": 6.72
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "A",
+   "key": "dmgMin",
+   "live": 54,
+   "sim": 62
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "A",
+   "key": "dmgMax",
+   "live": 56,
+   "sim": 64
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "A",
+   "key": "as",
+   "live": 142,
+   "sim": 150.32
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "A",
+   "key": "spa",
+   "live": 0.985915,
+   "sim": 0.931
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "A",
+   "key": "ms",
+   "live": 305,
+   "sim": 335.5
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "B",
+   "key": "agi",
+   "live": 127.2,
+   "sim": 189.46
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "B",
+   "key": "armor",
+   "live": 21.2,
+   "sim": 31.577
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "B",
+   "key": "dmgMin",
+   "live": 149,
+   "sim": 211
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "B",
+   "key": "dmgMax",
+   "live": 151,
+   "sim": 213
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "B",
+   "key": "as",
+   "live": 237,
+   "sim": 299.46
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "B",
+   "key": "spa",
+   "live": 0.590219,
+   "sim": 0.468
+  },
+  {
+   "hero": "npc_dota_hero_juggernaut",
+   "variant": "B",
+   "key": "ms",
+   "live": 305,
+   "sim": 335.5
+  },
+  {
+   "hero": "npc_dota_hero_kez",
+   "variant": "A",
+   "key": "dmgMin",
+   "live": 60,
+   "sim": 52.24
+  },
+  {
+   "hero": "npc_dota_hero_kez",
+   "variant": "A",
+   "key": "dmgMax",
+   "live": 66,
+   "sim": 58.24
+  },
+  {
+   "hero": "npc_dota_hero_kez",
+   "variant": "B",
+   "key": "dmgMin",
+   "live": 205,
+   "sim": 181.1
+  },
+  {
+   "hero": "npc_dota_hero_kez",
+   "variant": "B",
+   "key": "dmgMax",
+   "live": 211,
+   "sim": 187.1
+  },
+  {
+   "hero": "npc_dota_hero_life_stealer",
+   "variant": "B",
+   "key": "ms",
+   "live": 320,
+   "sim": 348.8
+  },
+  {
+   "hero": "npc_dota_hero_ogre_magi",
+   "variant": "B",
+   "key": "mana",
+   "live": 1056,
+   "sim": 888
+  },
+  {
+   "hero": "npc_dota_hero_ogre_magi",
+   "variant": "B",
+   "key": "manaRegen",
+   "live": 3.12,
+   "sim": 2.42
+  },
+  {
+   "hero": "npc_dota_hero_ogre_magi",
+   "variant": "B",
+   "key": "mrBase",
+   "live": 25,
+   "sim": 23.208
+  },
+  {
+   "hero": "npc_dota_hero_storm_spirit",
+   "variant": "B",
+   "key": "manaRegen",
+   "live": 9.765,
+   "sim": 10.765
+  },
+  {
+   "hero": "npc_dota_hero_sven",
+   "variant": "A",
+   "key": "dmgMin",
+   "live": 61,
+   "sim": 63.4
+  },
+  {
+   "hero": "npc_dota_hero_sven",
+   "variant": "A",
+   "key": "dmgMax",
+   "live": 63,
+   "sim": 65.4
+  },
+  {
+   "hero": "npc_dota_hero_sven",
+   "variant": "B",
+   "key": "dmgMin",
+   "live": 176,
+   "sim": 270.86
+  },
+  {
+   "hero": "npc_dota_hero_sven",
+   "variant": "B",
+   "key": "dmgMax",
+   "live": 178,
+   "sim": 272.86
+  },
+  {
+   "hero": "npc_dota_hero_troll_warlord",
+   "variant": "A",
+   "key": "armor",
+   "live": 3.8,
+   "sim": 3
+  },
+  {
+   "hero": "npc_dota_hero_troll_warlord",
+   "variant": "A",
+   "key": "spa",
+   "live": 1.37097,
+   "sim": 1.129
+  },
+  {
+   "hero": "npc_dota_hero_troll_warlord",
+   "variant": "A",
+   "key": "range",
+   "live": 500,
+   "sim": 150
+  },
+  {
+   "hero": "npc_dota_hero_troll_warlord",
+   "variant": "B",
+   "key": "armor",
+   "live": 25.74,
+   "sim": 25.283
+  },
+  {
+   "hero": "npc_dota_hero_troll_warlord",
+   "variant": "B",
+   "key": "spa",
+   "live": 0.727428,
+   "sim": 0.599
+  },
+  {
+   "hero": "npc_dota_hero_troll_warlord",
+   "variant": "B",
+   "key": "range",
+   "live": 500,
+   "sim": 150
+  }
+ ],
+ "structural": [
+  {
+   "hero": "npc_dota_hero_dawnbreaker",
+   "variant": "A",
+   "ability": "dawnbreaker_land",
+   "problem": "max level live 1 sim 3"
+  },
+  {
+   "hero": "npc_dota_hero_elder_titan",
+   "variant": "A",
+   "ability": "elder_titan_move_spirit",
+   "problem": "max level live 1 sim 4"
+  },
+  {
+   "hero": "npc_dota_hero_elder_titan",
+   "variant": "A",
+   "ability": "elder_titan_return_spirit",
+   "problem": "max level live 1 sim 4"
+  },
+  {
+   "hero": "npc_dota_hero_kez",
+   "variant": "A",
+   "ability": "kez_shodo_sai_parry_cancel",
+   "problem": "max level live 1 sim 4"
+  },
+  {
+   "hero": "npc_dota_hero_monkey_king",
+   "variant": "A",
+   "ability": "monkey_king_transfiguration",
+   "problem": "max level live 1 sim 3"
+  },
+  {
+   "hero": "npc_dota_hero_naga_siren",
+   "variant": "A",
+   "ability": "naga_siren_reel_in",
+   "problem": "max level live 1 sim 4"
+  },
+  {
+   "hero": "npc_dota_hero_night_stalker",
+   "variant": "A",
+   "ability": "night_stalker_hunter_in_the_night",
+   "problem": "max level live 0 sim 1"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "A",
+   "ability": "ringmaster_dark_carnival_souvenirs",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "A",
+   "ability": "ringmaster_funhouse_mirror",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "A",
+   "ability": "ringmaster_strongman_tonic",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "A",
+   "ability": "ringmaster_summon_unicycle",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "A",
+   "ability": "ringmaster_whoopee_cushion",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "B",
+   "ability": "ringmaster_dark_carnival_souvenirs",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "B",
+   "ability": "ringmaster_funhouse_mirror",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "B",
+   "ability": "ringmaster_strongman_tonic",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "B",
+   "ability": "ringmaster_summon_unicycle",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "B",
+   "ability": "ringmaster_whoopee_cushion",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "C",
+   "ability": "ringmaster_dark_carnival_souvenirs",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "C",
+   "ability": "ringmaster_funhouse_mirror",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "C",
+   "ability": "ringmaster_strongman_tonic",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "C",
+   "ability": "ringmaster_summon_unicycle",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "C",
+   "ability": "ringmaster_whoopee_cushion",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "D",
+   "ability": "ringmaster_dark_carnival_souvenirs",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "D",
+   "ability": "ringmaster_funhouse_mirror",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "D",
+   "ability": "ringmaster_strongman_tonic",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "D",
+   "ability": "ringmaster_summon_unicycle",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "D",
+   "ability": "ringmaster_whoopee_cushion",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "E",
+   "ability": "ringmaster_dark_carnival_souvenirs",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "E",
+   "ability": "ringmaster_funhouse_mirror",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "E",
+   "ability": "ringmaster_strongman_tonic",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "E",
+   "ability": "ringmaster_summon_unicycle",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_ringmaster",
+   "variant": "E",
+   "ability": "ringmaster_whoopee_cushion",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "A",
+   "ability": "rubick_hidden3",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "A",
+   "ability": "rubick_hidden4",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "A",
+   "ability": "rubick_hidden5",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "B",
+   "ability": "rubick_hidden3",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "B",
+   "ability": "rubick_hidden4",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "B",
+   "ability": "rubick_hidden5",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "C",
+   "ability": "rubick_hidden3",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "C",
+   "ability": "rubick_hidden4",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "C",
+   "ability": "rubick_hidden5",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "D",
+   "ability": "rubick_hidden3",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "D",
+   "ability": "rubick_hidden4",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "D",
+   "ability": "rubick_hidden5",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "E",
+   "ability": "rubick_hidden3",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "E",
+   "ability": "rubick_hidden4",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_rubick",
+   "variant": "E",
+   "ability": "rubick_hidden5",
+   "problem": "ability not on the simulated hero"
+  },
+  {
+   "hero": "npc_dota_hero_spectre",
+   "variant": "A",
+   "ability": "spectre_reality",
+   "problem": "max level live 1 sim 4"
+  }
+ ]
+}

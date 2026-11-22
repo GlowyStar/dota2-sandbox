@@ -1,0 +1,8 @@
+{ "id": "dark_seer_punch_half",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_dark_seer", "team": 0, "x": -300, "y": 0, "level": 30, "abilities": {}, "scepter": true, "face": [300, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 490, "y": 0, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "move", "pos": [300, 0] },
+    { "t": 2.7, "unit": "c", "type": "attack", "target": "t" } ],
+  "duration": 9.0 }

@@ -1,0 +1,12 @@
+shredder_chakram.sc
+shredder_chakram.tal
+shredder_exposure_therapy
+shredder_exposure_therapy.tal
+shredder_flamethrower
+shredder_reactive_armor
+shredder_reactive_armor.sc
+shredder_reactive_armor.tal
+shredder_timber_chain
+shredder_timber_chain.tal
+shredder_whirling_death
+shredder_whirling_death.tal

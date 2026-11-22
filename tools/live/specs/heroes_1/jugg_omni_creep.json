@@ -1,0 +1,1 @@
+{"id":"h1_jugg_omni_creep","units":[{"tag":"c","name":"npc_dota_hero_juggernaut","team":0,"x":0,"y":0,"level":30,"abilities":{"juggernaut_omni_slash":3},"face":[300,0]},{"tag":"k","name":"npc_dota_creep_badguys_melee","team":1,"x":300,"y":0,"face":[0,0]}],"actions":[{"t":0.5,"unit":"c","type":"cast","ability":"juggernaut_omni_slash","target":"k"}],"duration":6}

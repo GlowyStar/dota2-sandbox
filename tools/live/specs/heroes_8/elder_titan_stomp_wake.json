@@ -1,0 +1,9 @@
+{ "id": "elder_titan_stomp_wake",
+  "units": [
+    { "tag": "c", "name": "npc_dota_hero_elder_titan", "team": 0, "x": 0, "y": 0, "level": 30, "abilities": { "elder_titan_echo_stomp": 4 }, "face": [300, 0] },
+    { "tag": "a", "name": "npc_dota_hero_sven", "team": 0, "x": 300, "y": 150, "level": 30, "abilities": {}, "face": [300, 0] },
+    { "tag": "t", "name": "npc_dota_hero_target_dummy", "team": 1, "x": 300, "y": 0, "face": [0, 0] } ],
+  "actions": [
+    { "t": 0.5, "unit": "c", "type": "cast", "ability": "elder_titan_echo_stomp" },
+    { "t": 3.0, "unit": "a", "type": "attack", "target": "t" } ],
+  "duration": 8.0 }

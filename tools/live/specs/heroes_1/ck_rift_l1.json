@@ -1,0 +1,1 @@
+{"id":"h1_ck_rift_l1","units":[{"tag":"c","name":"npc_dota_hero_chaos_knight","team":0,"x":0,"y":0,"level":30,"abilities":{"chaos_knight_reality_rift":1},"face":[550,0]},{"tag":"t","name":"npc_dota_hero_target_dummy","team":1,"x":550,"y":0,"face":[0,0]}],"actions":[{"t":0.5,"unit":"c","type":"cast","ability":"chaos_knight_reality_rift","target":"t"}],"duration":4}
